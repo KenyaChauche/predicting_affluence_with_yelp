@@ -69,6 +69,11 @@ df = pd.DataFrame(hoods)
 
 # formatting
 # casting everything as float for cases where None is in the column
+
+# thank you to jezrael from Stack Overflow
+# their participation helped me figure out how in the world to scrub $'s from columns
+# link: https://stackoverflow.com/questions/43096522/remove-dollar-sign-from-entire-python-pandas-dataframe
+
 df[["median_income", "median_rent", "avg_house_value"]] = df[["median_income", "median_rent", "avg_house_value"]].replace(to_replace = "\$", value = "", regex = True)
 
 df["median_income"] = df["median_income"].replace(",", "", regex = True)
