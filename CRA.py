@@ -1,3 +1,7 @@
+import requests
+from bs4 import BeautifulSoup
+from matplotlib import pyplot as plt
+
 class CRA:
     def __init__(self):
         self.url = 'https://gisdata.seattle.gov/server/rest/services/COS/CommunityReportingAreas/MapServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json'
