@@ -1,0 +1,961 @@
+,name,price,categories,coordinates,cra
+0,Pike Place Chowder,2,"['seafood', 'soup']","[47.60939, -122.34112]",Downtown Commercial Core
+1,Piroshky Piroshky,1,"['bakeries', 'russian']","[47.60991, -122.34231]",Belltown
+2,The Pink Door,2,"['italian', 'wine_bars', 'seafood']","[47.61028, -122.3425]",Belltown
+3,Paseo,2,"['caribbean', 'cuban', 'sandwiches']","[47.65849, -122.35031]",Fremont
+4,Ellenos Real Greek Yogurt,1,['icecream'],"[47.608912, -122.34058]",Downtown Commercial Core
+6,Starbucks Reserve Roastery Seattle,2,"['coffee', 'coffeeroasteries']","[47.614039, -122.328079]",First Hill
+7,The Crumpet Shop,1,"['bakeries', 'coffee', 'breakfast_brunch']","[47.60899, -122.34044]",Downtown Commercial Core
+8,Storyville Coffee Company,2,['coffee'],"[47.6088847, -122.3403957]",Downtown Commercial Core
+9,Lola,2,"['greek', 'mediterranean', 'breakfast_brunch']","[47.6132519777742, -122.340060726984]",Cascade/Eastlake
+10,Japonessa Sushi Cocina,2,"['japanese', 'sushi']","[47.60809, -122.33899]",Downtown Commercial Core
+11,Beecher's Handmade Cheese,1,"['cheese', 'sandwiches']","[47.60963, -122.34179]",Downtown Commercial Core
+12,Biscuit Bitch,1,"['breakfast_brunch', 'coffee', 'southern']","[47.61034, -122.34167]",Belltown
+13,Le Panier French Bakery,1,"['bakeries', 'sandwiches', 'cakeshop']","[47.6098933070898, -122.342474609613]",Belltown
+14,Serious Pie,2,['pizza'],"[47.61296, -122.34047]",Cascade/Eastlake
+15,Tacos Chukis,1,['mexican'],"[47.620570445175, -122.321262359619]",Capitol Hill
+16,Toulouse Petit Kitchen & Lounge,2,['cajun'],"[47.624851, -122.357127]",Queen Anne
+17,Umi Sake House,2,"['sushi', 'japanese']","[47.61339, -122.34597]",Belltown
+18,Shiro's,3,"['sushi', 'japanese']","[47.6147782162181, -122.347327076057]",Belltown
+20,Il Corvo Pasta,2,"['italian', 'noodles', 'pastashops']","[47.60244, -122.33165]",Downtown Commercial Core
+21,Tilikum Place Cafe,2,"['newamerican', 'breakfast_brunch']","[47.617982, -122.347691]",Cascade/Eastlake
+22,Elliott's Oyster House,3,['seafood'],"[47.6054699, -122.34092]",Downtown Commercial Core
+23,List,2,"['italian', 'tapasmallplates', 'cocktailbars']","[47.61334, -122.34587]",Belltown
+24,Salumi Artisan Cured Meats,2,"['italian', 'sandwiches', 'meats']","[47.5988787386813, -122.332698915344]",Duwamish/SODO
+25,Bakery Nouveau,1,"['bakeries', 'sandwiches', 'cakeshop']","[47.5600625713343, -122.386938181065]",West Seattle Junction/Genesee Hill
+26,Biscuit Bitch,1,"['breakfast_brunch', 'southern', 'coffee']","[47.614767, -122.345278]",Belltown
+27,Molly Moon's Homemade Ice Cream,1,['icecream'],"[47.615174, -122.319911]",Capitol Hill
+28,FOB Poke Bar,2,"['poke', 'salad', 'hawaiian']","[47.6138005187095, -122.343868017197]",Belltown
+29,Din Tai Fung,2,"['taiwanese', 'shanghainese', 'dimsum']","[47.66164, -122.29921]",Ravenna/Bryant
+30,Pie Bar,2,"['cocktailbars', 'desserts']","[47.6168122, -122.3274386]",Capitol Hill
+31,Un Bien,2,"['cuban', 'caribbean', 'sandwiches']","[47.6816885778588, -122.37663764418]",Whittier Heights
+32,Radiator Whiskey,2,"['newamerican', 'cocktailbars']","[47.60888, -122.34036]",Downtown Commercial Core
+33,Purple Café and Wine Bar,3,"['newamerican', 'wine_bars', 'desserts']","[47.60795, -122.33508]",Downtown Commercial Core
+34,Local 360,2,"['newamerican', 'cocktailbars']","[47.613448, -122.346202]",Belltown
+35,Fogón Cocina Mexicana,2,['mexican'],"[47.6153793, -122.3240814]",Capitol Hill
+36,Moore Coffee Shop,1,"['coffee', 'sandwiches', 'waffles']","[47.611705, -122.3412531]",Belltown
+37,Metropolitan Grill,4,"['tradamerican', 'steak']","[47.604438, -122.334126]",Downtown Commercial Core
+38,Bakery Nouveau,1,"['bakeries', 'cafes', 'cakeshop']","[47.6195513808201, -122.312891077337]",Capitol Hill
+39,Von's 1000 Spirits,2,"['newamerican', 'pizza', 'venues']","[47.606565, -122.338337]",Downtown Commercial Core
+40,Sushi Kashiba,4,"['japanese', 'sushi']","[47.60982, -122.341283]",Downtown Commercial Core
+41,Some Random Bar,2,"['newamerican', 'cocktailbars', 'breakfast_brunch']","[47.6155010022786, -122.349802245912]",Belltown
+43,Morsel,1,"['coffee', 'sandwiches']","[47.665441, -122.312814]",University District
+44,Tat's Delicatessen,2,"['delis', 'cheesesteaks']","[47.6015989850198, -122.332317061304]",Pioneer Square/International District
+45,goPoké,2,"['poke', 'hawaiian', 'desserts']","[47.5982, -122.32528]",Pioneer Square/International District
+46,Cascina Spinasse,3,['italian'],"[47.61505, -122.31442]",Capitol Hill
+47,Ramen Danbo,2,"['ramen', 'noodles']","[47.61548, -122.31594]",Capitol Hill
+48,Café Besalu,1,"['bakeries', 'coffee', 'french']","[47.671821301106, -122.38782088382]",Sunset Hill/Loyal Heights
+49,Biscuit Bitch,1,"['southern', 'breakfast_brunch', 'coffee']","[47.60324, -122.3321]",Downtown Commercial Core
+50,Taste of India,2,['indpak'],"[47.669083, -122.317484]",Wallingford
+51,Canlis,4,"['newamerican', 'seafood']","[47.6430119, -122.3467676]",Queen Anne
+52,Dahlia Bakery,1,"['bakeries', 'cakeshop', 'breakfast_brunch']","[47.6131855205192, -122.340556830168]",Cascade/Eastlake
+53,HoneyHole Sandwiches,2,"['bars', 'sandwiches']","[47.61393, -122.3232]",Capitol Hill
+54,Daily Dozen Doughnut,1,"['bakeries', 'donuts', 'foodstands']","[47.6086751, -122.3402434]",Downtown Commercial Core
+55,The Walrus and the Carpenter,2,"['seafood', 'tapasmallplates']","[47.66351, -122.38022]",Ballard
+56,Zig Zag Cafe,2,"['newamerican', 'cocktailbars', 'mediterranean']","[47.6083803, -122.3414779]",Downtown Commercial Core
+57,8oz Burger & Co,2,"['burgers', 'bars', 'salad']","[47.6131289631218, -122.321055232102]",Capitol Hill
+58,Top Pot Doughnuts,1,"['bakeries', 'coffee', 'donuts']","[47.6151731973087, -122.34128517325]",Cascade/Eastlake
+59,Rocco's,2,"['bars', 'pizza']","[47.6140031078304, -122.345133]",Belltown
+60,Biscuit and Bean,1,"['coffee', 'breakfast_brunch']","[47.6718, -122.3764655]",Ballard
+62,Serious Pie & Biscuit,2,"['pizza', 'sandwiches', 'bars']","[47.6221655931029, -122.338662374865]",Cascade/Eastlake
+63,Chan Seattle,2,"['asianfusion', 'korean', 'gastropubs']","[47.6098823547363, -122.341438293457]",Downtown Commercial Core
+64,Din Tai Fung,2,"['taiwanese', 'shanghainese', 'dimsum']","[47.61289, -122.33531]",First Hill
+65,Bongos,2,"['cuban', 'caribbean']","[47.6767449533551, -122.346925400198]",Greenwood/Phinney Ridge
+66,Maneki,2,"['japanese', 'sushi']","[47.59974, -122.32614]",Pioneer Square/International District
+67,Momiji,2,"['japanese', 'sushi', 'asianfusion']","[47.61482, -122.31657]",Capitol Hill
+68,Wasabi Sushi & Izakaya,2,"['sushi', 'izakaya', 'ramen']","[47.614196, -122.346226]",Belltown
+69,Salt & Straw,2,['icecream'],"[47.6142143070702, -122.323235442336]",Capitol Hill
+70,RockCreek Seafood & Spirits,3,"['seafood', 'tapasmallplates']","[47.6594842489603, -122.349788737434]",Fremont
+71,Portage Bay Cafe - Roosevelt,2,"['newamerican', 'breakfast_brunch', 'cafes']","[47.65757, -122.3176]",University District
+72,Gelatiamo,1,"['bakeries', 'icecream', 'gelato']","[47.60899, -122.33671]",Downtown Commercial Core
+73,Mr Gyros,1,['mediterranean'],"[47.6695873953204, -122.382009446032]",Ballard
+74,Skillet Capitol Hill,2,"['breakfast_brunch', 'newamerican']","[47.613138, -122.31386]",Capitol Hill
+75,Dahlia Lounge,2,"['newamerican', 'seafood', 'breakfast_brunch']","[47.61304, -122.34058]",Cascade/Eastlake
+76,Shaker & Spear,2,"['seafood', 'newamerican', 'breakfast_brunch']","[47.61203, -122.34165]",Belltown
+77,Taylor Shellfish Farms - Seattle,2,"['seafood', 'raw_food']","[47.614652, -122.328081]",Capitol Hill
+78,El Gaucho,4,"['steak', 'seafood', 'venues']","[47.6147330738928, -122.349196290354]",Belltown
+79,Quinn's,2,"['newamerican', 'pubs']","[47.61386, -122.31922]",Capitol Hill
+80,Petra Bistro,2,"['mediterranean', 'mideastern', 'greek']","[47.61669, -122.34653]",Cascade/Eastlake
+81,Kedai Makan,2,"['malaysian', 'noodles']","[47.6179, -122.32658]",Capitol Hill
+82,Palisade,3,"['seafood', 'steak', 'asianfusion']","[47.630364, -122.3915012]",Magnolia
+83,Monorail Espresso,1,['coffee'],"[47.611, -122.33545]",First Hill
+85,Hello Robin,1,['bakeries'],"[47.6238087792208, -122.307136621784]",Miller Park
+86,Cafe Turko,2,"['halal', 'turkish', 'mediterranean']","[47.6494089483896, -122.347989527251]",Fremont
+87,Seattle Coffee Works,1,['coffeeroasteries'],"[47.6101133, -122.3405669]",Downtown Commercial Core
+88,Hot Cakes Molten Chocolate Cakery,2,"['bakeries', 'coffee', 'cakeshop']","[47.6680853271588, -122.38557639577]",Ballard
+89,Nue,2,"['tapasmallplates', 'cocktailbars', 'breakfast_brunch']","[47.61483, -122.3146]",Capitol Hill
+90,Musashi's,2,"['sushi', 'japanese']","[47.66161, -122.34047]",Wallingford
+91,Royal Grinders,2,"['sandwiches', 'vegetarian', 'vegan']","[47.6513, -122.35078]",Fremont
+92,Frankie & Jo's Capitol Hill,2,['icecream'],"[47.612983211875, -122.319105863571]",Capitol Hill
+93,Witness,2,"['southern', 'cocktailbars']","[47.6225508133524, -122.320680460381]",Capitol Hill
+94,Geraldine's Counter,2,"['tradamerican', 'breakfast_brunch', 'diners']","[47.5580008, -122.2848526]",Columbia City
+95,Molly Moon's Homemade Ice Cream,2,['icecream'],"[47.6614912966508, -122.338043573655]",Wallingford
+96,Café Presse,2,"['french', 'bars', 'breakfast_brunch']","[47.6120529174805, -122.317108154297]",First Hill
+97,Matt's in the Market,3,"['newamerican', 'bars']","[47.60888, -122.34036]",Downtown Commercial Core
+98,The Capital Grille,3,"['steak', 'seafood', 'wine_bars']","[47.60826, -122.33538]",Downtown Commercial Core
+99,Tsukushinbo,2,"['japanese', 'sushi', 'seafood']","[47.59985, -122.32681]",Pioneer Square/International District
+100,Sweet Iron Waffles,1,"['breakfast_brunch', 'waffles', 'coffee']","[47.60741, -122.33519]",Downtown Commercial Core
+103,Italian Family Pizza,2,"['pizza', 'italian']","[47.6093542, -122.3255851]",First Hill
+104,Suika Seattle,2,"['izakaya', 'ramen', 'sushi']","[47.615113, -122.323896]",Capitol Hill
+105,Stateside,2,"['vietnamese', 'asianfusion', 'cocktailbars']","[47.6141895780828, -122.327432663824]",Capitol Hill
+106,Harbor City Restaurant,2,"['bbq', 'dimsum', 'cantonese']","[47.59821, -122.32339]",Pioneer Square/International District
+107,Altura,4,['italian'],"[47.62488, -122.32115]",Capitol Hill
+109,Uneeda Burger,2,"['burgers', 'sandwiches']","[47.65952, -122.34976]",Fremont
+110,Mighty-O Donuts,1,"['donuts', 'vegan', 'bakeries']","[47.668804, -122.333258]",Green Lake
+111,Cafe Flora,2,"['vegetarian', 'vegan', 'gluten_free']","[47.62397, -122.29521]",Central Area/Squire Park
+112,Pike Place Chowder,2,"['seafood', 'soup', 'tradamerican']","[47.6124848522455, -122.33503818512]",First Hill
+113,Le Pichet,2,"['french', 'wine_bars', 'brasseries']","[47.6107, -122.34259]",Belltown
+114,No Bones Beach Club,2,"['vegan', 'gluten_free', 'cocktailbars']","[47.6683552, -122.3786058]",Ballard
+115,Six Seven Restaurant,3,"['newamerican', 'seafood', 'cocktailbars']","[47.6123040331025, -122.35230088234]",Belltown
+116,Xi'an Noodles,1,"['chinese', 'noodles', 'hotpot']","[47.66815, -122.31319]",University District
+117,Barolo Ristorante,3,"['italian', 'wine_bars']","[47.614719, -122.3374525]",Cascade/Eastlake
+118,Anchorhead Coffee,1,"['coffee', 'bakeries']","[47.6133808022766, -122.334691182469]",First Hill
+119,Portage Bay Cafe - South Lake Union,2,"['breakfast_brunch', 'newamerican', 'cafes']","[47.62169, -122.33749]",Cascade/Eastlake
+120,Tamarind Tree,2,"['vietnamese', 'noodles']","[47.5998406645559, -122.317832050262]",Pioneer Square/International District
+121,Pestle Rock,2,"['thai', 'noodles', 'soup']","[47.6685, -122.38653]",Ballard
+122,Green Leaf Vietnamese Restaurant,2,"['vietnamese', 'sandwiches', 'noodles']","[47.59852, -122.3222]",Pioneer Square/International District
+123,Taylor Shellfish Oyster Bar,2,"['seafood', 'raw_food']","[47.59884, -122.33268]",Duwamish/SODO
+124,Starbucks,1,['coffee'],"[47.610021, -122.342583]",Belltown
+125,Marination Ma Kai,2,"['korean', 'hawaiian', 'asianfusion']","[47.5895547295386, -122.380718663883]",Alki/Admiral
+126,Mike's Noodle House,1,"['chinese', 'noodles']","[47.59859, -122.32482]",Pioneer Square/International District
+127,Plum Bistro,2,['vegan'],"[47.6137675, -122.3171839]",Capitol Hill
+128,Salty's,3,"['seafood', 'breakfast_brunch', 'bars']","[47.586564, -122.376422]",Alki/Admiral
+129,Fremont Bowl,2,"['japanese', 'poke']","[47.6590046, -122.3498476]",Fremont
+130,The Harvest Vine,3,"['tapas', 'spanish', 'basque']","[47.62258, -122.29725]",Central Area/Squire Park
+131,The Fat Hen,2,"['cafes', 'breakfast_brunch']","[47.67968, -122.37443]",Whittier Heights
+133,Café Campagne,2,"['french', 'breakfast_brunch', 'cafes']","[47.60975, -122.34143]",Downtown Commercial Core
+134,Dough Zone Dumpling House,2,"['shanghainese', 'dimsum', 'noodles']","[47.59788, -122.32749]",Pioneer Square/International District
+135,Umma's Lunch Box,1,"['korean', 'buffets']","[47.60884, -122.33425]",Downtown Commercial Core
+136,Nishino,3,"['sushi', 'japanese']","[47.626865892007, -122.29180523016]",Madison Park
+137,Michou,1,"['delis', 'sandwiches']","[47.6098867, -122.342348]",Belltown
+138,Joule,2,"['asianfusion', 'korean', 'breakfast_brunch']","[47.64962, -122.3424]",Fremont
+139,Bathtub Gin & Co,2,"['cocktailbars', 'speakeasies']","[47.6132, -122.34484]",Belltown
+141,Nana’s Green Tea,2,"['japanese', 'desserts', 'cafes']","[47.61638, -122.33312]",Cascade/Eastlake
+142,Due' Cucina Italiana,2,"['italian', 'pastashops']","[47.62245, -122.32064]",Capitol Hill
+143,Lecosho,2,"['newamerican', 'bars', 'seafood']","[47.606474929346, -122.3387322711]",Downtown Commercial Core
+144,Fainting Goat Gelato,1,"['icecream', 'gelato']","[47.66125, -122.33473]",Wallingford
+145,Black Bottle,2,"['newamerican', 'gastropubs', 'tapasmallplates']","[47.61543, -122.34967]",Belltown
+146,Knee High Stocking,2,"['cocktailbars', 'speakeasies', 'filipino']","[47.616978, -122.327395]",Capitol Hill
+147,Macrina Bakery & Cafe,2,"['bakeries', 'cafes', 'cakeshop']","[47.61447, -122.34798]",Belltown
+148,Victrola Coffee Roasters,1,"['coffeeroasteries', 'breakfast_brunch']","[47.6143, -122.32731]",Capitol Hill
+149,Americana,2,"['newamerican', 'breakfast_brunch', 'cocktailbars']","[47.6205993717064, -122.321047782898]",Capitol Hill
+150,Kizuki Ramen & Izakaya,2,"['ramen', 'izakaya']","[47.6153842629972, -122.327005895599]",Capitol Hill
+151,Ghost Alley Espresso,1,['coffee'],"[47.6085748, -122.3406767]",Downtown Commercial Core
+152,How To Cook a Wolf,3,"['italian', 'tapasmallplates']","[47.6385402665478, -122.356887666769]",Queen Anne
+153,Bizzarro Italian Cafe,2,"['italian', 'desserts', 'bars']","[47.66196, -122.34171]",Wallingford
+154,"The Brooklyn Seafood, Steak & Oyster House",3,"['seafood', 'steak', 'raw_food']","[47.6071761944115, -122.336951661377]",Downtown Commercial Core
+155,Palace Kitchen,3,"['newamerican', 'bars', 'desserts']","[47.61459, -122.34002]",Cascade/Eastlake
+156,Espresso Vivace Roasteria,1,['coffee'],"[47.6238354263561, -122.320776209235]",Capitol Hill
+157,Seattle Best Tea,1,"['coffee', 'bubbletea', 'juicebars']","[47.59846, -122.32731]",Pioneer Square/International District
+158,Heartwood Provisions,3,"['newamerican', 'desserts']","[47.60553, -122.33734]",Downtown Commercial Core
+159,Storyville Coffee Company,2,['coffee'],"[47.6047463759017, -122.33651225825]",Downtown Commercial Core
+160,Espresso Vivace Sidewalk Bar,1,['coffee'],"[47.621665, -122.321304]",Capitol Hill
+161,Saffron Grill,2,"['indpak', 'mediterranean', 'bars']","[47.7089, -122.33262]",Northgate/Maple Leaf
+162,Ristorante Machiavelli,2,"['italian', 'pizza', 'desserts']","[47.615, -122.32809]",Capitol Hill
+163,Tavolàta,3,['italian'],"[47.6142640792683, -122.346668243408]",Belltown
+164,The Confectional,2,"['bakeries', 'desserts']","[47.60937, -122.34142]",Downtown Commercial Core
+165,Steelhead Diner,2,"['diners', 'seafood', 'tradamerican']","[47.60956, -122.34105]",Downtown Commercial Core
+166,Pomodoro,2,"['italian', 'spanish', 'tapasmallplates']","[47.641699, -122.325672]",Montlake/Portage Bay
+167,Asadero Ballard,2,"['mexican', 'steak']","[47.66687, -122.38282]",Ballard
+168,Cakes of Paradise,2,"['desserts', 'bakeries', 'cakeshop']","[47.54553, -122.32585]",Georgetown
+169,Amazing Thai Cuisine,1,['thai'],"[47.66679, -122.31707]",University District
+170,Wood Shop BBQ,2,"['bbq', 'sandwiches']","[47.59906, -122.29914]",Madrona/Leschi
+171,La Carta de Oaxaca,2,['mexican'],"[47.66806, -122.38577]",Ballard
+172,Manolin,2,['seafood'],"[47.651215, -122.343091]",Fremont
+173,CJ's Eatery,2,"['tradamerican', 'breakfast_brunch', 'diners']","[47.6156985166871, -122.350629476196]",Belltown
+174,Shug's Soda Fountain + Ice Cream,2,"['icecream', 'cocktailbars', 'beerbar']","[47.60945, -122.34086]",Downtown Commercial Core
+175,Art of The Table,4,['newamerican'],"[47.6528780234499, -122.342783700594]",Fremont
+176,Katsu Burger,2,"['burgers', 'japanese']","[47.54408, -122.32914]",Georgetown
+177,Revel,2,"['korean', 'newamerican']","[47.6519983, -122.3541339]",Fremont
+178,Cafe Pettirosso,2,"['coffee', 'bakeries', 'breakfast_brunch']","[47.6138316046163, -122.31792964418]",Capitol Hill
+179,Duke's Seafood,2,"['seafood', 'bars']","[47.629862, -122.330422]",Cascade/Eastlake
+180,5 Spot,2,"['tradamerican', 'breakfast_brunch']","[47.63253, -122.35672]",Queen Anne
+181,Mojito,2,"['cuban', 'colombian', 'venezuelan']","[47.68448, -122.31602]",Ravenna/Bryant
+182,Espresso Vivace Alley 24,1,['coffee'],"[47.62021, -122.33069]",Cascade/Eastlake
+183,Blueacre Seafood,3,"['seafood', 'raw_food']","[47.613779250456, -122.33514951541]",Cascade/Eastlake
+184,Annapurna Cafe,2,"['indpak', 'himalayan', 'bars']","[47.6185989746118, -122.32109886344]",Capitol Hill
+185,Staple & Fancy,3,"['seafood', 'italian']","[47.66354, -122.38007]",Ballard
+186,Schilling Cider House,2,"['bars', 'cideries']","[47.6496447, -122.3491281]",Fremont
+187,The 5 Point Café,2,"['divebars', 'diners', 'breakfast_brunch']","[47.6181399, -122.34725]",Cascade/Eastlake
+188,Long Provincial Vietnamese,2,"['vietnamese', 'noodles']","[47.61096, -122.34081]",Belltown
+189,Bacco Cafe & Bistro,2,"['breakfast_brunch', 'cafes', 'cocktailbars']","[47.6099483776499, -122.341100470373]",Downtown Commercial Core
+190,Thai Tom,1,['thai'],"[47.662455, -122.3132706]",University District
+191,Alibi Room,2,"['newamerican', 'lounges', 'pizza']","[47.60832, -122.34081]",Downtown Commercial Core
+192,Brouwer's Cafe,2,"['modern_european', 'pubs', 'belgian']","[47.65163, -122.35423]",Fremont
+193,Crumble & Flake Patisserie,2,"['bakeries', 'macarons', 'cakeshop']","[47.6179, -122.32645]",Capitol Hill
+195,Red Mill Burgers,2,['burgers'],"[47.677847002847, -122.35471520758]",Greenwood/Phinney Ridge
+196,Hot Cakes Molten Chocolate Cakery,2,"['desserts', 'bakeries', 'chocolate']","[47.6197738293287, -122.323911041021]",Capitol Hill
+197,Queen Bee Cafe,1,['cafes'],"[47.6187617134567, -122.303428728242]",Miller Park
+198,Market Grill,2,"['seafood', 'sandwiches', 'soup']","[47.6089070425027, -122.340861002181]",Downtown Commercial Core
+199,Ugly Mug Café,1,"['breakfast_brunch', 'sandwiches', 'coffeeroasteries']","[47.6597958, -122.3139519]",University District
+200,Ugly Mug Café,1,"['breakfast_brunch', 'sandwiches', 'coffeeroasteries']","[47.6597958, -122.3139519]",University District
+201,Cactus Restaurants,2,"['tex-mex', 'mexican', 'newmexican']","[47.621798, -122.336944]",Cascade/Eastlake
+202,Lady Yum,2,"['macarons', 'wine_bars', 'desserts']","[47.61594, -122.34038]",Cascade/Eastlake
+203,Bottlehouse,2,"['wine_bars', 'tapasmallplates']","[47.61347, -122.28899]",Madrona/Leschi
+204,In The Bowl,2,['noodles'],"[47.618676, -122.325665]",Capitol Hill
+205,Mamnoon,2,"['lebanese', 'persian', 'syrian']","[47.61435, -122.3276]",Capitol Hill
+206,RN74,3,"['newamerican', 'french', 'wine_bars']","[47.60997, -122.33681]",Downtown Commercial Core
+207,Mee Sum Pastry,1,"['bakeries', 'chinese', 'chicken_wings']","[47.6091726957566, -122.341359799475]",Downtown Commercial Core
+208,Unicorn,2,"['newamerican', 'lounges', 'divebars']","[47.6142899, -122.31757]",Capitol Hill
+209,Old School Frozen Custard,1,['icecream'],"[47.614279, -122.314674]",Capitol Hill
+210,AQUA by El Gaucho,4,['seafood'],"[47.614784817189, -122.3552942276]",Belltown
+211,Rain City Burgers,2,"['burgers', 'beerbar']","[47.6759439, -122.3176159]",Green Lake
+212,Kauai Family Restaurant,1,"['hawaiian', 'noodles', 'soup']","[47.54553, -122.32585]",Georgetown
+213,Cutters Crabhouse,2,"['seafood', 'steak', 'tradamerican']","[47.610525, -122.344301]",Downtown Commercial Core
+214,Tilth,3,['newamerican'],"[47.66116, -122.34006]",Wallingford
+216,Fat Ducks Deli & Bakery,1,"['delis', 'bakeries', 'sandwiches']","[47.66887, -122.31327]",University District
+217,Fat's Fried Chicken & Waffles,2,"['southern', 'soulfood', 'waffles']","[47.6081253897776, -122.296459855298]",Central Area/Squire Park
+218,Mashiko Japanese Restaurant & Sushi Bar,3,"['japanese', 'sushi']","[47.56038, -122.38698]",West Seattle Junction/Genesee Hill
+219,Trophy Cupcakes and Party,2,"['coffee', 'cupcakes', 'venues']","[47.66084, -122.33559]",Wallingford
+220,Tea Republik,1,['tea'],"[47.6620911, -122.3132793]",University District
+221,Milstead,1,['coffee'],"[47.6493630890404, -122.347080911647]",Fremont
+222,Citizen,2,"['creperies', 'coffee', 'breakfast_brunch']","[47.6257499, -122.34588]",Queen Anne
+223,A la Mode Pies,2,"['desserts', 'bakeries']","[47.6717, -122.35467]",Greenwood/Phinney Ridge
+224,Veggie Grill,2,"['newamerican', 'vegan', 'vegetarian']","[47.6098539, -122.3365793]",Downtown Commercial Core
+225,Cupcake Royale,1,"['bakeries', 'icecream', 'cupcakes']","[47.61388, -122.31761]",Capitol Hill
+226,Intrigue Chocolate,2,"['chocolate', 'desserts']","[47.59908084314, -122.332570552826]",Duwamish/SODO
+227,Ivar's Acres of Clams,2,"['seafood', 'bars', 'tradamerican']","[47.6041312723551, -122.339360054271]",Downtown Commercial Core
+228,Street Bean Coffee Roasters,1,['coffee'],"[47.6173786, -122.3493343]",Belltown
+229,Saigon Deli,1,"['vietnamese', 'delis', 'sandwiches']","[47.5990153, -122.31535]",Judkins Park
+230,Oddfellows Cafe & Bar,2,"['bars', 'newamerican', 'cafes']","[47.6147316, -122.3194491]",Capitol Hill
+231,A + Hong Kong Kitchen,1,"['cantonese', 'hkcafe']","[47.59854, -122.32652]",Pioneer Square/International District
+232,Ada's Technical Books and Cafe,2,"['bookstores', 'coffee', 'vegetarian']","[47.6226405233527, -122.3126743]",Capitol Hill
+233,Kona Kitchen - Seattle,2,"['hawaiian', 'breakfast_brunch', 'lounges']","[47.69067, -122.32338]",Northgate/Maple Leaf
+234,SWeL Restaurant,2,['newamerican'],"[47.6506701329953, -122.351689688666]",Fremont
+235,Barrio Mexican Kitchen & Bar,2,"['mexican', 'bars']","[47.6136667159702, -122.31662850827]",Capitol Hill
+236,Sol Liquor Lounge,2,"['lounges', 'cocktailbars']","[47.62460938971, -122.32560712946]",Capitol Hill
+237,Taneda Sushi in Kaiseki,4,"['sushi', 'japanese']","[47.62063, -122.32134]",Capitol Hill
+238,Young Tea,1,"['bubbletea', 'coffee', 'desserts']","[47.59733, -122.32597]",Pioneer Square/International District
+239,Jebena Cafe,2,['ethiopian'],"[47.71416, -122.31196]",Olympic Hills/Victory Heights
+240,Pho Viet Anh,2,"['vietnamese', 'noodles']","[47.6256, -122.34926]",Queen Anne
+241,Ray's Boathouse,3,"['newamerican', 'seafood', 'bars']","[47.67307, -122.40716]",Sunset Hill/Loyal Heights
+242,Wayward Vegan Cafe,2,"['breakfast_brunch', 'vegan', 'vegetarian']","[47.6757, -122.3198]",Green Lake
+243,Buddha Ruksa,2,['thai'],"[47.564769, -122.377232]",West Seattle Junction/Genesee Hill
+244,Celine Patisserie,1,"['bakeries', 'coffee', 'cafes']","[47.678863, -122.355637]",Greenwood/Phinney Ridge
+245,19 GOLD,2,"['taiwanese', 'bubbletea']","[47.651839, -122.350314]",Fremont
+246,Meekong Bar,2,"['vietnamese', 'asianfusion', 'soup']","[47.6167700829394, -122.346869073808]",Cascade/Eastlake
+247,ChuMinh Tofu & Vegan Deli,1,"['vietnamese', 'delis', 'vegan']","[47.5989179, -122.3177822]",Pioneer Square/International District
+248,Pete's Egg Nest,2,['breakfast_brunch'],"[47.6853, -122.35554]",Greenwood/Phinney Ridge
+249,Taylor Shellfish Oyster Bar,2,"['seafood', 'bars', 'raw_food']","[47.6234302, -122.3544378]",Queen Anne
+250,Lowell's Restaurant,2,"['tradamerican', 'breakfast_brunch', 'seafood']","[47.6089372, -122.341346]",Downtown Commercial Core
+251,Mr. West Cafe Bar,2,"['wine_bars', 'breakfast_brunch', 'coffee']","[47.614126, -122.3345]",Cascade/Eastlake
+252,Etta's,2,['seafood'],"[47.61081, -122.34377]",Belltown
+253,Rosellini's,2,"['bakeries', 'macarons', 'cakeshop']","[47.67937, -122.37472]",Whittier Heights
+254,Pop Pop Thai Street Food,1,"['thai', 'noodles']","[47.726071, -122.344547]",Haller Lake
+255,Molly Moon's Homemade Ice Cream,1,['icecream'],"[47.632234, -122.361486]",Queen Anne
+256,Le Caviste,2,"['wine_bars', 'french']","[47.6145686, -122.3366618]",Cascade/Eastlake
+257,Glo's,2,"['breakfast_brunch', 'desserts']","[47.61929, -122.32453]",Capitol Hill
+258,Salt & Straw,2,['icecream'],"[47.6683465390117, -122.385305799544]",Ballard
+259,Senor Moose Cafe,2,['mexican'],"[47.66664, -122.38163]",Ballard
+260,Pizzeria Credo,2,"['pizza', 'italian']","[47.5622433, -122.3866417]",West Seattle Junction/Genesee Hill
+261,FareStart Restaurant,2,"['newamerican', 'salad', 'sandwiches']","[47.6152682020093, -122.337560722511]",Cascade/Eastlake
+262,Ba Bar,2,['vietnamese'],"[47.60699, -122.31648]",First Hill
+263,Terra Plata,3,"['newamerican', 'cocktailbars', 'wine_bars']","[47.61449, -122.32807]",Capitol Hill
+264,Hue Ky Mi Gia,1,"['vietnamese', 'chinese', 'noodles']","[47.5990692269986, -122.316223301189]",Judkins Park
+265,Flatstick Pub - Pioneer Square,2,"['mini_golf', 'pubs', 'beerbar']","[47.6001432, -122.3310024]",Pioneer Square/International District
+266,Wild Ginger,2,"['thai', 'panasian', 'wine_bars']","[47.608831, -122.337421]",Downtown Commercial Core
+267,Kau Kau Barbeque,2,"['bbq', 'seafood', 'cantonese']","[47.59847, -122.32471]",Pioneer Square/International District
+268,Storyville Coffee Company,2,['coffee'],"[47.638254, -122.356804]",Queen Anne
+269,The Beer Junction,2,['beerbar'],"[47.562517, -122.386975]",West Seattle Junction/Genesee Hill
+270,Araya's Place,2,"['thai', 'vegan', 'venues']","[47.6238626, -122.2960954]",Central Area/Squire Park
+271,Serafina,3,"['italian', 'wine_bars', 'tapasmallplates']","[47.63808, -122.32611]",Cascade/Eastlake
+272,Hot Mama's Pizza,1,['pizza'],"[47.615379179632, -122.32323073437]",Capitol Hill
+273,Island Soul Rum Bar & Soul Shack,2,"['caribbean', 'bars', 'soulfood']","[47.55812, -122.28544]",Columbia City
+274,Cask & Trotter,2,"['bbq', 'bars', 'tradamerican']","[47.626012, -122.3390033]",Queen Anne
+275,U:Don Fresh Japanese Noodle Station,2,"['japanese', 'noodles']","[47.6617673, -122.3134035]",University District
+276,General Porpoise,2,"['donuts', 'coffee']","[47.613088, -122.318735]",Capitol Hill
+277,Aladdin Falafel Corner,2,['mediterranean'],"[47.66244, -122.31344]",University District
+278,Tutta Bella Neapolitan Pizzeria - Wallingford,2,"['italian', 'pizza', 'coffee']","[47.6604594196727, -122.342495150977]",Wallingford
+279,Il Terrazzo Carmine,3,['italian'],"[47.598694662445, -122.33460180661]",Duwamish/SODO
+280,Sharetea,1,"['bubbletea', 'coffee', 'juicebars']","[47.6613402793565, -122.316258698702]",University District
+281,MarketSpice,2,"['coffee', 'herbsandspices']","[47.60832, -122.34081]",Downtown Commercial Core
+283,D'Ambrosio Gelato,1,"['icecream', 'gelato', 'cafes']","[47.66722, -122.38442]",Ballard
+284,Fran's Chocolates,3,"['chocolate', 'candy', 'coffee']","[47.6076583012086, -122.339147280925]",Downtown Commercial Core
+285,Canon,3,"['newamerican', 'cocktailbars']","[47.61127, -122.31657]",First Hill
+286,Vegan Haven,2,"['gourmet', 'grocery', 'vegan']","[47.66837, -122.31267]",University District
+287,Vinason Pho & Grill,2,"['sandwiches', 'macarons', 'vietnamese']","[47.61757, -122.33809]",Cascade/Eastlake
+288,Pho Bac Súp Shop,2,"['vietnamese', 'noodles']","[47.599506, -122.315385]",Judkins Park
+289,Noi Thai Cuisine,2,['thai'],"[47.606881, -122.3389654]",Downtown Commercial Core
+290,Seattle Art Museum,2,"['artmuseums', 'venues', 'cafes']","[47.607697, -122.338175]",Downtown Commercial Core
+291,Simply Desserts,1,"['desserts', 'cakeshop']","[47.65019775453, -122.35001812348]",Fremont
+292,Valhalla Sandwiches,2,['sandwiches'],"[47.6885414123535, -122.355018615723]",Greenwood/Phinney Ridge
+293,Voula's Offshore Cafe,2,"['breakfast_brunch', 'cafes', 'greek']","[47.65476, -122.32155]",Wallingford
+294,Rock Box,2,"['karaoke', 'bars']","[47.615287, -122.320031]",Capitol Hill
+295,Cactus Restaurants,2,"['tex-mex', 'mexican', 'newmexican']","[47.5782800784475, -122.413087476886]",Alki/Admiral
+296,The Grill From Ipanema,3,"['brazilian', 'steak', 'buffets']","[47.61358, -122.34719]",Belltown
+297,Smith,2,"['bars', 'newamerican', 'breakfast_brunch']","[47.6214889, -122.312315]",Miller Park
+298,Carmelo's Tacos,1,"['tacos', 'foodstands']","[47.6188364116856, -122.325064701916]",Capitol Hill
+299,Calozzi's Cheesesteaks,2,"['cheesesteaks', 'sandwiches']","[47.540249, -122.3228454]",Georgetown
+300,Stoneburner,2,"['pizza', 'bars', 'mediterranean']","[47.6662974316062, -122.382751900253]",Ballard
+301,Sushi Kappo Tamura,3,"['sushi', 'japanese']","[47.648602, -122.323398]",Montlake/Portage Bay
+302,Tacos Chukis,1,"['tacos', 'sandwiches']","[47.6270336126469, -122.342103158844]",Queen Anne
+303,Karaage Setsuna,2,"['japanese', 'hawaiian']","[47.6150914, -122.3479382]",Belltown
+304,Gordito's,1,"['mexican', 'breakfast_brunch']","[47.69054, -122.355963]",Greenwood/Phinney Ridge
+305,Gorgeous George's Mediterranean Kitchen,2,"['mideastern', 'greek', 'mediterranean']","[47.68533, -122.35554]",Greenwood/Phinney Ridge
+306,La Cabaña,2,"['breakfast_brunch', 'honduran', 'salvadoran']","[47.7052, -122.35088]",North Beach/Blue Ridge
+307,Nijo Sushi Bar & Grill,2,"['sushi', 'japanese']","[47.60492, -122.33762]",Downtown Commercial Core
+308,D' La Santa,2,"['mexican', 'steak']","[47.64123, -122.3202]",Montlake/Portage Bay
+309,BAMBU,1,"['shavedice', 'bubbletea', 'coffee']","[47.59786, -122.3235]",Pioneer Square/International District
+310,El Diablo Coffee,1,"['cuban', 'cafes']","[47.63555, -122.35731]",Queen Anne
+311,Artisan Cafe,1,"['coffee', 'sandwiches', 'breakfast_brunch']","[47.6177632, -122.3463131]",Cascade/Eastlake
+312,Arepa Venezuelan Kitchen,1,"['venezuelan', 'empanadas', 'sandwiches']","[47.6647592219734, -122.312693352331]",University District
+313,Porkchop & Co,2,"['breakfast_brunch', 'newamerican']","[47.66783, -122.38398]",Ballard
+314,The Cookie Counter,1,"['icecream', 'bakeries', 'vegan']","[47.6830855, -122.3555681]",Greenwood/Phinney Ridge
+315,Cook Weaver,2,"['modern_european', 'cocktailbars']","[47.62522, -122.32172]",North Capitol Hill
+316,Bánh Town,2,"['vietnamese', 'soup', 'sandwiches']","[47.704335979482, -122.355919323804]",Greenwood/Phinney Ridge
+317,20 OZ TEA,1,['bubbletea'],"[47.63568, -122.32591]",Cascade/Eastlake
+318,Red Mill Burgers,2,['burgers'],"[47.64819, -122.3783]",Interbay
+319,Pizza and Pasta Bar,2,"['pizza', 'italian', 'pastashops']","[47.609366, -122.341095]",Downtown Commercial Core
+320,Aglio e Olio,2,"['italian', 'pizza', 'sandwiches']","[47.62323, -122.29593]",Central Area/Squire Park
+321,Rumba,2,"['caribbean', 'cocktailbars']","[47.6138199, -122.32858]",First Hill
+322,Mox Boarding House Seattle,2,"['hobbyshops', 'bars', 'tradamerican']","[47.66495, -122.38045]",Ballard
+323,Orfeo,2,"['newamerican', 'italian', 'pizza']","[47.6131858825684, -122.342834472656]",Belltown
+324,Ooink,2,"['ramen', 'noodles']","[47.6135201, -122.3219651]",Capitol Hill
+325,Chinook's,2,"['seafood', 'breakfast_brunch', 'bars']","[47.6552047, -122.3809918]",Interbay
+326,Sweet Alchemy Ice Creamery,2,"['icecream', 'bakeries', 'coffee']","[47.65998, -122.31337]",University District
+327,Hiroshi's Poke,2,"['poke', 'hawaiian', 'japanese']","[47.66359, -122.31609]",University District
+328,Phoenecia,2,"['pizza', 'tapasmallplates']","[47.56064, -122.38587333]",West Seattle Junction/Genesee Hill
+329,The Wandering Goose,2,"['southern', 'cafes', 'bakeries']","[47.6221085, -122.3127975]",Capitol Hill
+330,Aloha Ramen,2,"['hawaiian', 'ramen']","[47.7214454316066, -122.296077806746]",Cedar Park/Meadowbrook
+331,DeLaurenti Food & Wine,2,"['beer_and_wine', 'delis', 'grocery']","[47.608639, -122.340113]",Downtown Commercial Core
+332,Tulio,3,"['italian', 'bars', 'breakfast_brunch']","[47.60762, -122.33233]",First Hill
+333,Husky Deli,1,"['icecream', 'sandwiches', 'delis']","[47.560230255127, -122.387199401855]",West Seattle Junction/Genesee Hill
+334,Li'l Woody's,1,"['burgers', 'juicebars', 'hotdogs']","[47.61495, -122.32818]",Capitol Hill
+335,Rachel's Ginger Beer - 12th Avenue,2,"['breweries', 'bars']","[47.61563, -122.31654]",Capitol Hill
+336,Local Pho,2,"['vietnamese', 'sandwiches', 'noodles']","[47.6146521760056, -122.344533008587]",Cascade/Eastlake
+338,Coastal Kitchen,2,"['breakfast_brunch', 'seafood', 'tradamerican']","[47.62277, -122.31281]",Capitol Hill
+339,Windy City Pie,2,"['pizza', 'bars', 'italian']","[47.6723482, -122.3540596]",Greenwood/Phinney Ridge
+341,Ivar's Salmon House,2,"['seafood', 'lounges', 'tradamerican']","[47.6536199, -122.32404]",Wallingford
+342,Oriental Mart,1,"['grocery', 'filipino', 'importedfood']","[47.60892, -122.34066]",Downtown Commercial Core
+343,Flintcreek Cattle,3,"['newamerican', 'steak']","[47.6904199617095, -122.355570159853]",Greenwood/Phinney Ridge
+344,Ocho,2,"['tapas', 'cocktailbars', 'breakfast_brunch']","[47.66849, -122.38734]",Ballard
+345,Sichuanese Cuisine,2,"['szechuan', 'hotpot', 'noodles']","[47.5993655520798, -122.317549573997]",Pioneer Square/International District
+346,Jade Garden,2,"['dimsum', 'seafood', 'cantonese']","[47.5985020713873, -122.323515415192]",Pioneer Square/International District
+347,The Butcher's Table,4,"['steak', 'butcher', 'newamerican']","[47.6174, -122.33869]",Cascade/Eastlake
+348,Pasta Casalinga,2,"['italian', 'pastashops']","[47.6086751, -122.3402434]",Downtown Commercial Core
+349,Old Stove Brewing,2,"['brewpubs', 'seafood', 'burgers']","[47.609711, -122.343087]",Downtown Commercial Core
+350,Bounty Kitchen,2,"['salad', 'vegetarian', 'breakfast_brunch']","[47.6381912, -122.3565216]",Queen Anne
+351,Pho Ba,1,"['vietnamese', 'noodles']","[47.598683, -122.323712]",Pioneer Square/International District
+352,Aviv Hummus Bar,2,"['falafel', 'bars', 'delis']","[47.61883, -122.3129]",Capitol Hill
+353,Bottega Italiana,1,"['gelato', 'coffee']","[47.6084207743406, -122.339756190777]",Downtown Commercial Core
+354,SOI,2,"['bars', 'thai', 'desserts']","[47.613057, -122.3192713]",Capitol Hill
+355,Bang Bang Café,1,"['breakfast_brunch', 'cafes', 'newmexican']","[47.6140199, -122.3493]",Belltown
+356,Can Can,2,"['french', 'cabaret', 'cocktailbars']","[47.60888, -122.34036]",Downtown Commercial Core
+357,Market House Meats,2,"['meats', 'sandwiches', 'delis']","[47.61682, -122.33092]",Cascade/Eastlake
+358,Beth's Cafe,2,"['tradamerican', 'diners', 'breakfast_brunch']","[47.682122, -122.344757]",Greenwood/Phinney Ridge
+359,Tavern Law,2,"['newamerican', 'lounges', 'cocktailbars']","[47.61324, -122.3166]",Capitol Hill
+360,Kabul Afghan Cuisine,2,"['afghani', 'vegan', 'vegetarian']","[47.66117, -122.33114]",Wallingford
+361,Marination Station,1,"['korean', 'asianfusion', 'hawaiian']","[47.61337, -122.32142]",Capitol Hill
+362,Stumptown Coffee Roasters,1,"['coffee', 'coffeeroasteries']","[47.61195, -122.31719]",First Hill
+363,Tubs Gourmet Subs,1,['sandwiches'],"[47.71, -122.30019]",Cedar Park/Meadowbrook
+364,Shuckers Oyster Bar,3,"['newamerican', 'seafood', 'raw_food']","[47.607681597618, -122.334140238098]",Downtown Commercial Core
+365,Fonda La Catrina,2,['mexican'],"[47.54992, -122.31781]",Georgetown
+366,Bedlam Coffee,1,['coffee'],"[47.6138034, -122.3454629]",Belltown
+368,The Carlile Room,2,"['newamerican', 'bars', 'breakfast_brunch']","[47.613536, -122.33246]",First Hill
+369,MOD Pizza,1,"['pizza', 'hotdogs']","[47.6093525, -122.3326287]",First Hill
+370,mkt.,3,['newamerican'],"[47.6686946, -122.3329512]",Green Lake
+371,Hiroki,1,"['bakeries', 'desserts', 'donuts']","[47.669028881738, -122.332219038688]",Green Lake
+372,The Golden Olive,1,"['mediterranean', 'greek', 'lebanese']","[47.6239613, -122.3570864]",Queen Anne
+373,Three Girls Bakery,1,['bakeries'],"[47.6091232279214, -122.341057580765]",Downtown Commercial Core
+374,Kisaku Sushi,2,"['sushi', 'japanese']","[47.6685751279974, -122.333174272694]",Green Lake
+375,Piroshki on 3rd,1,"['russian', 'bakeries', 'desserts']","[47.60395, -122.33218]",Downtown Commercial Core
+376,Eggs & Plants,2,"['mediterranean', 'vegetarian', 'mideastern']","[47.6156197, -122.3429413]",Cascade/Eastlake
+377,Sal Y Limon,2,"['mexican', 'bars']","[47.62506, -122.35619]",Queen Anne
+378,Liberty,2,"['coffee', 'sushi', 'cocktailbars']","[47.623588, -122.312936]",Capitol Hill
+379,Bavarian Meats,1,"['meats', 'delis', 'german']","[47.61023, -122.34287]",Belltown
+380,Araya's Place,2,"['thai', 'vegan', 'vegetarian']","[47.6675671, -122.3128845]",University District
+381,Ma'ono,2,"['hawaiian', 'chickenshop']","[47.5636486287425, -122.386841379762]",West Seattle Junction/Genesee Hill
+382,Fonte Coffee - Seattle,2,"['coffee', 'breakfast_brunch', 'cafes']","[47.607379, -122.339155]",Downtown Commercial Core
+383,The Crab Pot,3,['seafood'],"[47.606062903242, -122.340865619481]",Downtown Commercial Core
+385,Thai Thai Kitchen,2,"['thai', 'noodles', 'chicken_wings']","[47.698564, -122.344872]",Licton Springs
+386,Tamari Bar,2,"['sushi', 'izakaya']","[47.61537, -122.32534]",Capitol Hill
+387,Loulay Kitchen & Bar,3,"['french', 'bars']","[47.61085, -122.33318]",First Hill
+388,Pho Bac,2,"['vietnamese', 'sandwiches', 'noodles']","[47.6169506, -122.3310034]",Cascade/Eastlake
+389,HeartBeet Organic Superfoods Cafe,2,"['juicebars', 'gluten_free', 'breakfast_brunch']","[47.63459, -122.357367]",Queen Anne
+390,Hangar Cafe,2,"['breakfast_brunch', 'coffee', 'creperies']","[47.54672, -122.31641]",Georgetown
+391,Luna Park Cafe,2,"['tradamerican', 'breakfast_brunch', 'coffee']","[47.57067, -122.371]",North Delridge
+392,Seattle Meowtropolitan,2,['themedcafes'],"[47.66125, -122.34291]",Wallingford
+393,Silence-Heart-Nest,2,"['vegetarian', 'breakfast_brunch']","[47.65083, -122.3502]",Fremont
+394,Cedars Restaurant,2,"['indpak', 'mediterranean']","[47.6647397425756, -122.31433656316]",University District
+395,El Borracho,2,['mexican'],"[47.60934, -122.34076]",Downtown Commercial Core
+396,Molly Moon's,1,"['icecream', 'desserts']","[47.661616, -122.299609]",Ravenna/Bryant
+397,Shorty's,1,"['divebars', 'arcades', 'hotdog']","[47.6146179, -122.345904]",Belltown
+398,Red Cedar & Sage,2,"['newamerican', 'breakfast_brunch', 'cocktailbars']","[47.60881, -122.34118]",Downtown Commercial Core
+399,Loretta's Northwesterner,1,"['bars', 'newamerican', 'burgers']","[47.52588, -122.31514]",South Park
+401,Tacos El Asadero,1,"['foodtrucks', 'tacos']","[47.571183, -122.293096]",Columbia City
+402,Top Pot Doughnuts,1,"['bakeries', 'coffee', 'donuts']","[47.62468, -122.32561]",Capitol Hill
+403,Foreign National,2,['cocktailbars'],"[47.6142234802246, -122.327613830566]",Capitol Hill
+404,George's Sausage & Delicatessen,1,"['delis', 'polish', 'sandwiches']","[47.6084, -122.3269]",First Hill
+405,Pie Bar Ballard,2,"['cocktailbars', 'beerbar']","[47.66882, -122.38557]",Ballard
+406,Super Six,2,"['asianfusion', 'hawaiian', 'newamerican']","[47.55728, -122.28556]",Columbia City
+407,Cactus Restaurants,2,"['tex-mex', 'mexican', 'newmexican']","[47.636175, -122.2776929]",Madison Park
+408,Gyro Time,1,"['mediterranean', 'halal']","[47.7044990922383, -122.355003207922]",Greenwood/Phinney Ridge
+409,Assaggio Ristorante,2,"['italian', 'pizza']","[47.6132319867611, -122.340262457728]",Cascade/Eastlake
+410,Lunchbox Laboratory,2,"['burgers', 'newamerican']","[47.6206938, -122.3313401]",Cascade/Eastlake
+411,Uli's Famous Sausage,2,"['meats', 'german', 'hotdog']","[47.608703, -122.340993]",Downtown Commercial Core
+412,Jhanjay Vegetarian Thai Cuisine,2,"['thai', 'vegetarian']","[47.66152, -122.33665]",Wallingford
+413,Bar Cotto,2,"['bars', 'pizza', 'italian']","[47.6146934, -122.3127642]",Central Area/Squire Park
+414,Boat Street Kitchen,2,"['french', 'breakfast_brunch', 'modern_european']","[47.6182518005371, -122.357429504395]",Belltown
+415,Full Tilt Ice Cream,1,"['icecream', 'arcades']","[47.55598, -122.28409]",Columbia City
+416,King Noodle,1,"['chinese', 'noodles']","[47.5982, -122.32551]",Pioneer Square/International District
+417,Seatown Market Diner,2,"['newamerican', 'seafood', 'bars']","[47.610519540689, -122.343445173541]",Belltown
+418,Bastille Cafe & Bar,2,"['bars', 'french', 'breakfast_brunch']","[47.66644, -122.38366]",Ballard
+419,Aladdin Gyro-Cery,1,"['greek', 'mediterranean', 'halal']","[47.65805, -122.31346]",University District
+420,U:Don Fresh Japanese Noodle Station,2,"['japanese', 'noodles']","[47.61588, -122.31655]",Capitol Hill
+421,Green Leaf Vietnamese Restaurant,2,"['vietnamese', 'sandwiches', 'noodles']","[47.61666, -122.35166]",Belltown
+422,One Pot,2,"['korean', 'hotpot', 'seafood']","[47.59805, -122.31699]",Judkins Park
+423,Copine,3,"['newamerican', 'french']","[47.67579, -122.38729]",Whittier Heights
+424,Miss Cafe,2,"['turkish', 'halal', 'pizza']","[47.60939, -122.3408]",Downtown Commercial Core
+425,Itto's Tapas,2,"['moroccan', 'tapas', 'spanish']","[47.5648, -122.38655]",West Seattle Junction/Genesee Hill
+426,Meet the Moon,2,"['coffee', 'breakfast_brunch', 'bars']","[47.6021513, -122.2849313]",Madrona/Leschi
+427,Casco Antiguo,2,"['bars', 'mexican']","[47.601203, -122.333255]",Pioneer Square/International District
+428,La Cocina Oaxaquena,2,"['mexican', 'bars']","[47.6154747009277, -122.328178405762]",Capitol Hill
+429,Yard House,2,"['newamerican', 'vegetarian', 'bars']","[47.6105657927679, -122.337333251419]",Downtown Commercial Core
+430,Mykonos Greek Grill,2,['greek'],"[47.68056, -122.32531]",Green Lake
+431,8 Oz Burger & Co,2,['burgers'],"[47.66844, -122.38816]",Sunset Hill/Loyal Heights
+432,The Athenian Seafood Restaurant and Bar,2,"['newamerican', 'breakfast_brunch', 'bars']","[47.6087, -122.34088]",Downtown Commercial Core
+433,Poquitos,2,['mexican'],"[47.61443, -122.31906]",Capitol Hill
+434,Parfait Ice Cream,1,['icecream'],"[47.66967, -122.38369]",Ballard
+435,Zeitgeist Coffee,1,"['coffee', 'venues', 'cafes']","[47.59895, -122.33198]",Duwamish/SODO
+436,Wakefield Bar,2,"['cocktailbars', 'breakfast_brunch', 'tradamerican']","[47.614614, -122.346314]",Belltown
+437,West Seattle Swinery,2,"['meats', 'burgers', 'tradamerican']","[47.575356, -122.387147]",West Seattle Junction/Genesee Hill
+438,Gourmet Noodle Bowl,2,"['chinese', 'taiwanese', 'hotpot']","[47.596323, -122.322679]",Pioneer Square/International District
+439,Veggie Grill,2,"['newamerican', 'vegetarian', 'vegan']","[47.6229080378028, -122.336923465408]",Cascade/Eastlake
+440,Kizuki Ramen & Izakaya,2,"['ramen', 'izakaya']","[47.70223, -122.32481]",Northgate/Maple Leaf
+441,Aburiya Bento House,2,"['japanese', 'sushi', 'poke']","[47.61131, -122.3448]",Belltown
+442,Veraci Pizza - Ballard,2,"['pizza', 'italian']","[47.66886, -122.36328]",Greenwood/Phinney Ridge
+443,The Masonry,2,"['pizza', 'beerbar']","[47.6257, -122.35575]",Queen Anne
+444,IL Bistro,2,"['italian', 'lounges', 'seafood']","[47.6086724281015, -122.340207843732]",Downtown Commercial Core
+445,La Marzocco Cafe,1,"['coffee', 'cafes']","[47.622833, -122.35514]",Queen Anne
+446,Kaladi Brothers Coffee,1,"['coffee', 'bakeries', 'bagels']","[47.613915, -122.324622]",Capitol Hill
+447,Caffè Senso Unico,1,"['coffee', 'cafes', 'sandwiches']","[47.6135499, -122.33564]",Cascade/Eastlake
+448,Pi Vegan Pizzeria,2,"['pizza', 'vegan']","[47.667293, -122.317704]",Wallingford
+449,Needle and Thread,3,"['lounges', 'cocktailbars', 'speakeasies']","[47.61324, -122.3166]",Capitol Hill
+450,Daniel's Broiler,4,"['steak', 'seafood']","[47.626789, -122.33494]",Cascade/Eastlake
+451,Rob Roy,2,"['lounges', 'cocktailbars']","[47.61478, -122.34655]",Belltown
+452,Mecca Cafe,2,"['divebars', 'breakfast_brunch', 'diners']","[47.62412, -122.35637]",Queen Anne
+453,Eden Hill Restaurant,4,"['newamerican', 'bars', 'seafood']","[47.63876, -122.35715]",Queen Anne
+454,Cafe Selam,2,['ethiopian'],"[47.60779, -122.29707]",Central Area/Squire Park
+455,Sugar Bakery & Coffeehouse,2,"['coffee', 'bakeries']","[47.62343, -122.35486]",Queen Anne
+456,Teriyaki 1st,1,"['japanese', 'korean']","[47.6667137145996, -122.313400268555]",University District
+457,Dick's Drive-In,1,"['burgers', 'hotdogs', 'icecream']","[47.6193313, -122.32124]",Capitol Hill
+458,The Station,1,"['coffee', 'mexican']","[47.579563, -122.311864]",North Beacon Hill/Jefferson Park
+459,Herb & Bitter Public House,2,"['tapasmallplates', 'breakfast_brunch', 'cocktailbars']","[47.6236055711029, -122.320748173641]",Capitol Hill
+460,Billiard Hoang,2,"['vietnamese', 'poolhalls', 'sandwiches']","[47.5573, -122.29015]",Columbia City
+461,Volunteer Park Cafe & Marketplace,2,"['breakfast_brunch', 'newamerican', 'cafes']","[47.63244, -122.31011]",Montlake/Portage Bay
+462,Talarico's Pizzeria,2,"['pizza', 'lounges', 'karaoke']","[47.5605010986328, -122.38639831543]",West Seattle Junction/Genesee Hill
+463,Via Tribunali - Capitol Hill,2,"['pizza', 'italian', 'wine_bars']","[47.61386, -122.31986]",Capitol Hill
+464,Nielsen's Pastries,1,"['bakeries', 'cafes', 'cakeshop']","[47.62403, -122.35895]",Queen Anne
+465,Miro Tea,1,"['tea', 'desserts', 'creperies']","[47.66751, -122.38493]",Ballard
+466,Ciudad,2,"['tapasmallplates', 'bars']","[47.54814, -122.3169]",Georgetown
+467,Gyro Heroes,2,['mediterranean'],"[47.58101, -122.38409]",West Seattle Junction/Genesee Hill
+468,Norm's Eatery & Ale House,2,"['tradamerican', 'bars', 'breakfast_brunch']","[47.65221, -122.35308]",Fremont
+469,Rancho Bravo Tacos,1,"['mexican', 'sandwiches']","[47.61511, -122.318983]",Capitol Hill
+470,Intermezzo Carmine,2,"['cocktailbars', 'italian']","[47.5988331, -122.3342651]",Duwamish/SODO
+471,Turkish Delight,1,['turkish'],"[47.610384, -122.343101]",Belltown
+473,Katsu Burger - Capitol Hill,2,"['japanese', 'burgers']","[47.61341, -122.31659]",Capitol Hill
+474,Jack's BBQ,2,"['bbq', 'sandwiches']","[47.568253286253, -122.322438037435]",Duwamish/SODO
+475,Sizzle&Crunch,1,"['vietnamese', 'salad', 'sandwiches']","[47.65822, -122.31372]",University District
+476,Bai Tong Thai Street Cafe,2,"['thai', 'tapasmallplates']","[47.6140225996357, -122.317152052372]",Capitol Hill
+477,Feierabend,2,"['german', 'pubs']","[47.6225189844835, -122.330288567194]",Cascade/Eastlake
+478,Emerald City Fish & Chips,1,"['fishnchips', 'seafood', 'sandwiches']","[47.57002, -122.29063]",Columbia City
+479,Easy Street Records & Cafe,1,"['musicvideo', 'breakfast_brunch', 'cafes']","[47.5612799, -122.38696]",West Seattle Junction/Genesee Hill
+480,Plaza Garibaldi,2,"['mexican', 'karaoke']","[47.619432283316, -122.355732115532]",Queen Anne
+481,Empire Espresso,1,"['coffee', 'sandwiches']","[47.5585206399951, -122.2842578]",Columbia City
+482,Slate Coffee Roasters,2,['coffeeroasteries'],"[47.6683499, -122.36354]",Fremont
+483,Sunset Cafe,2,['ethiopian'],"[47.52994, -122.27022]",Rainier Beach
+484,Cherry Street Thai,2,['thai'],"[47.6081545, -122.2966784]",Central Area/Squire Park
+485,Homegrown,2,"['sandwiches', 'salad', 'breakfast_brunch']","[47.61464, -122.32816]",Capitol Hill
+486,Harvest Beat,3,"['vegetarian', 'vegan']","[47.66115, -122.33678]",Wallingford
+487,Cafe An'Clair,2,"['bakeries', 'cafes']","[47.621113, -122.339967]",Cascade/Eastlake
+488,Place Pigalle,3,['french'],"[47.60831, -122.34081]",Downtown Commercial Core
+489,Cicchetti,2,"['mediterranean', 'tapasmallplates', 'cocktailbars']","[47.6381371, -122.326172]",Cascade/Eastlake
+490,2C Thai Bistro & Spirits,2,['thai'],"[47.7195198833942, -122.294958606362]",Cedar Park/Meadowbrook
+491,Take 5 Urban Market,1,"['delis', 'convenience', 'grocery']","[47.67934, -122.36627]",Whittier Heights
+492,JaK's Grill,2,"['tradamerican', 'steak']","[47.56135, -122.38656]",West Seattle Junction/Genesee Hill
+493,Beveridge Place Pub,2,['pubs'],"[47.545467, -122.387542]",Fauntleroy/Seaview
+494,Dead Line,2,"['latin', 'cocktailbars', 'venues']","[47.60114, -122.33379]",Pioneer Square/International District
+495,Sound & Fog,1,"['cafes', 'coffee', 'wine_bars']","[47.560101, -122.383012]",West Seattle Junction/Genesee Hill
+496,Cinnamon Works,1,"['bakeries', 'gluten_free']","[47.6094622914807, -122.341599337573]",Downtown Commercial Core
+497,Simply Soulful,2,"['desserts', 'soulfood', 'southern']","[47.624083, -122.294851]",Central Area/Squire Park
+498,Brave Horse Tavern,2,"['tradamerican', 'pubs']","[47.6214346, -122.3370234]",Cascade/Eastlake
+499,Planet Java Diner,1,"['diners', 'tradamerican', 'breakfast_brunch']","[47.6010599, -122.33518]",Pioneer Square/International District
+500,Reckless Noodle House,2,"['bars', 'noodles', 'asianfusion']","[47.5991, -122.29906]",Madrona/Leschi
+501,The Tasting Room,2,"['wine_bars', 'winetastingroom']","[47.6105066, -122.3424647]",Belltown
+502,Columbia City Bakery,1,"['bakeries', 'cakeshop', 'cafes']","[47.5582435933174, -122.285413749692]",Columbia City
+503,Fuji Bakery,1,"['bakeries', 'coffee', 'cakeshop']","[47.59849, -122.32654]",Pioneer Square/International District
+504,Byrek & Baguette,1,['mediterranean'],"[47.609, -122.31648]",First Hill
+505,Joe Bar,1,"['coffee', 'creperies', 'bars']","[47.62522, -122.32161]",North Capitol Hill
+506,Chuck's Hop Shop,2,['beerbar'],"[47.6907749003192, -122.36575460434]",Greenwood/Phinney Ridge
+507,Betsu Ten Jin,2,"['ramen', 'noodles']","[47.6132958132324, -122.319609959972]",Capitol Hill
+508,Elliott Bay Brewery Pub,2,"['tradamerican', 'brewpubs']","[47.5604, -122.3864]",West Seattle Junction/Genesee Hill
+509,Villa Escondida,2,"['mexican', 'breakfast_brunch', 'desserts']","[47.61256, -122.34558]",Belltown
+510,Hazlewood,2,"['lounges', 'cocktailbars']","[47.6685, -122.38661]",Ballard
+511,Ivar's Fish Bar,2,"['seafood', 'hotdogs', 'fishnchips']","[47.6041278, -122.3396028]",Downtown Commercial Core
+512,Oasis Tea Zone,1,"['coffee', 'juicebars', 'bubbletea']","[47.5976518611681, -122.326559026402]",Pioneer Square/International District
+513,Nirmal's,2,['indpak'],"[47.60147, -122.33262]",Pioneer Square/International District
+514,Tap House Grill,2,"['tradamerican', 'beerbar']","[47.6115768083436, -122.33482635159]",First Hill
+515,Elysian Brewing - Capitol Hill,2,"['breweries', 'bars', 'tradamerican']","[47.613983178147, -122.31566569745]",Capitol Hill
+516,Circa,2,"['steak', 'tradamerican', 'cocktailbars']","[47.5809, -122.38683]",West Seattle Junction/Genesee Hill
+517,Jamjuree Thai Cuisine,2,['thai'],"[47.62346, -122.31293]",Capitol Hill
+518,Monsoon Seattle,2,"['vietnamese', 'asianfusion', 'bars']","[47.62493, -122.3076]",Miller Park
+519,Jewel Box Café,1,"['coffee', 'cafes', 'bubbletea']","[47.7024404587866, -122.324872554823]",Northgate/Maple Leaf
+520,The London Plane,2,"['bars', 'cafes', 'florists']","[47.5993639, -122.3325807]",Pioneer Square/International District
+521,Perihelion Brewery,2,"['burgers', 'brewpubs']","[47.57844, -122.31182]",North Beacon Hill/Jefferson Park
+522,Re Public,2,"['newamerican', 'bars']","[47.62289, -122.33876]",Cascade/Eastlake
+523,RoRo BBQ & Grill,2,['bbq'],"[47.6510903, -122.3422045]",Fremont
+524,Chukar Cherries,2,"['chocolate', 'bakeries']","[47.60879, -122.34106]",Downtown Commercial Core
+525,Nuflours,1,"['bakeries', 'gluten_free']","[47.62388, -122.31245]",Miller Park
+526,Jerk Shack,2,"['caribbean', 'cocktailbars', 'seafood']","[47.61507, -122.34901]",Belltown
+527,Artusi,2,"['italian', 'cocktailbars']","[47.61509, -122.31442]",Capitol Hill
+528,Delancey,2,"['pizza', 'salad', 'cocktailbars']","[47.67937, -122.37479]",Whittier Heights
+529,Stone Way Cafe,2,"['coffee', 'sandwiches']","[47.64995, -122.34245]",Fremont
+530,Thanh Vi,1,"['vietnamese', 'sandwiches', 'noodles']","[47.65919, -122.31296]",University District
+531,Chuck's Hop Shop,1,"['beer_and_wine', 'foodtrucks', 'icecream']","[47.612703, -122.305855]",Central Area/Squire Park
+532,Huong Duong,1,"['vietnamese', 'seafood']","[47.537775, -122.281089]",Columbia City
+533,Dick's Drive-In,1,"['hotdogs', 'burgers']","[47.66111, -122.32778]",Wallingford
+534,Pho An,1,"['vietnamese', 'noodles']","[47.7200393676758, -122.294563293457]",Cedar Park/Meadowbrook
+535,Mashawi Mediterranean Cuisine,2,"['mediterranean', 'lebanese', 'vegetarian']","[47.625564, -122.349206]",Queen Anne
+536,Beyond The Bowl,2,"['poke', 'japanese', 'desserts']","[47.7197699, -122.29466]",Cedar Park/Meadowbrook
+537,Bait Shop,2,"['divebars', 'tradamerican']","[47.624656, -122.320616]",North Capitol Hill
+538,Wataru,3,"['sushi', 'japanese']","[47.67595, -122.3015]",Ravenna/Bryant
+539,Morfire,2,"['thai', 'hotpot', 'bars']","[47.6178983287513, -122.31685490353]",Capitol Hill
+540,Sugar Bakery & Cafe,1,"['bakeries', 'desserts', 'cafes']","[47.60919, -122.32589]",First Hill
+542,Wann Japanese Izakaya,2,"['tapasmallplates', 'ramen', 'izakaya']","[47.6123629310883, -122.342370384656]",Belltown
+543,Maximilien,3,['french'],"[47.60831, -122.34081]",Downtown Commercial Core
+544,Hi Spot Cafe,2,['newamerican'],"[47.61325, -122.2891]",Madrona/Leschi
+545,Le Fournil Bakery & Catering,1,"['bakeries', 'cafes', 'breakfast_brunch']","[47.650823, -122.321436]",Montlake/Portage Bay
+546,S/T Hooligans,2,"['cajun', 'burgers']","[47.660252, -122.365614]",Fremont
+547,Capitol Cider,2,"['cocktailbars', 'gluten_free', 'breakfast_brunch']","[47.6142164, -122.321138]",Capitol Hill
+548,Wild Mountain Cafe,2,"['tradamerican', 'breakfast_brunch']","[47.6908378601074, -122.374549865723]",North Beach/Blue Ridge
+549,Daawat Grill,2,"['indpak', 'bars', 'buffets']","[47.612605, -122.331413]",First Hill
+550,That's Amore! Italian Cafe,2,['italian'],"[47.58956, -122.29267]",Mt. Baker/North Rainier
+551,Ohana Belltown,2,"['japanese', 'hawaiian', 'sushi']","[47.61265, -122.34585]",Belltown
+552,The Whisky Bar,2,"['scottish', 'british', 'whiskeybars']","[47.613081, -122.343676]",Belltown
+553,King's Hardware,2,"['pubs', 'tradamerican']","[47.6660312, -122.3829427]",Ballard
+554,Arashi Ramen,2,"['ramen', 'noodles', 'izakaya']","[47.6682, -122.3823]",Ballard
+555,Dong Thap Noodles,2,"['vietnamese', 'noodles']","[47.599758, -122.317459]",Pioneer Square/International District
+556,Dog In The Park,1,"['hotdog', 'foodstands']","[47.6109804179377, -122.336851358414]",Downtown Commercial Core
+557,Bitterroot BBQ,2,['bbq'],"[47.66618, -122.38335]",Ballard
+558,Rhein Haus Seattle,2,"['german', 'beergardens', 'pretzels']","[47.6109314, -122.31635594418]",First Hill
+559,Pecos Pit Bar-B-Que,2,['bbq'],"[47.58215, -122.3338]",Duwamish/SODO
+560,JuneBaby,2,['southern'],"[47.67591, -122.3041]",Ravenna/Bryant
+561,Ballard Annex Oyster House,2,"['seafood', 'cocktailbars', 'breakfast_brunch']","[47.668, -122.385]",Ballard
+562,Bangrak Market,2,"['bars', 'thai', 'tapasmallplates']","[47.614263, -122.346387]",Belltown
+563,Tutta Bella Neapolitan Pizzeria - South Lake Union,2,"['pizza', 'italian', 'coffee']","[47.61826, -122.3376214]",Cascade/Eastlake
+564,Itadakimasu,2,"['korean', 'japanese', 'hawaiian']","[47.664349, -122.314514]",University District
+565,Ezell's Famous Chicken,1,"['southern', 'chickenshop', 'comfortfood']","[47.60632, -122.303011]",Central Area/Squire Park
+566,Ristorante Picolinos,2,"['italian', 'beergardens', 'eventplanning']","[47.675805, -122.398535]",Sunset Hill/Loyal Heights
+567,Le Coin,2,"['french', 'newamerican']","[47.65784, -122.3503]",Fremont
+568,Cinque Terre Ristorante,2,"['italian', 'seafood', 'pizza']","[47.6150169372559, -122.338088989258]",Cascade/Eastlake
+569,Elm Coffee Roasters,1,"['coffee', 'coffeeroasteries']","[47.600143951931, -122.331028842297]",Pioneer Square/International District
+570,Niko's Gyros,1,"['greek', 'mediterranean']","[47.63925, -122.39851]",Magnolia
+571,The Roll Pod,1,"['foodtrucks', 'indpak']","[47.61945, -122.33756]",Cascade/Eastlake
+572,Byen Bakeri,2,"['bakeries', 'sandwiches', 'scandinavian']","[47.649288, -122.356908]",Queen Anne
+573,Café Suisse,1,"['cafes', 'breakfast_brunch']","[47.6155395507812, -122.337577819824]",Cascade/Eastlake
+574,Bahn Thai Restaurant,2,['thai'],"[47.62526, -122.34836]",Cascade/Eastlake
+575,Bar Del Corso,2,"['italian', 'pizza']","[47.57544, -122.30956]",North Beacon Hill/Jefferson Park
+576,The Triple Door,2,"['asianfusion', 'musicvenues', 'dinnertheater']","[47.6085441559553, -122.33749575913]",Downtown Commercial Core
+577,Pho Bac,1,"['vietnamese', 'noodles']","[47.5993799, -122.3148]",Judkins Park
+578,Kimchi Bistro,2,['korean'],"[47.6205711364746, -122.3212890625]",Capitol Hill
+579,Little Tin Goods & Apothecary Cabinet,2,"['cocktailbars', 'tapasmallplates', 'jazzandblues']","[47.66714, -122.3844]",Ballard
+580,Mamma Melina Ristorante + Pizzeria,2,"['italian', 'pizza', 'bars']","[47.66642, -122.300812]",Ravenna/Bryant
+581,Citra,1,"['icecream', 'coffee', 'bubbletea']","[47.6638174140586, -122.312971447885]",University District
+582,Yoroshiku,2,"['ramen', 'izakaya', 'gastropubs']","[47.661275215696, -122.334412382889]",Wallingford
+583,Mammoth,2,"['sandwiches', 'beerbar']","[47.64225, -122.32626]",Montlake/Portage Bay
+584,Gainsbourg,2,"['french', 'lounges']","[47.6914078, -122.3551629]",Greenwood/Phinney Ridge
+585,Thai Siam,2,['thai'],"[47.68893, -122.37718]",Whittier Heights
+586,Tutta Bella Neapolitan Pizzeria - Columbia City,2,"['pizza', 'italian', 'coffee']","[47.5572052001953, -122.28443145752]",Columbia City
+587,Korean Bamboo,2,['korean'],"[47.6147414, -122.344547]",Cascade/Eastlake
+588,Cheeky Cafe,2,"['asianfusion', 'comfortfood', 'breakfast_brunch']","[47.5994529724121, -122.309623718262]",Judkins Park
+589,Bite Box,2,"['coffee', 'breakfast_brunch']","[47.6394157409668, -122.361442565918]",Queen Anne
+590,Pasta Bella,2,['italian'],"[47.67222, -122.37657]",Ballard
+591,JOEY Kitchen At University Village,2,"['newamerican', 'lounges']","[47.66164, -122.29969]",Ravenna/Bryant
+592,Zeeks Pizza,2,"['pizza', 'gluten_free']","[47.6184785, -122.3478587]",Cascade/Eastlake
+594,La Fontana Siciliana,2,['sicilian'],"[47.613146, -122.3449]",Belltown
+595,India Bistro,2,"['indpak', 'seafood', 'cocktailbars']","[47.675473086806, -122.317399978638]",Green Lake
+596,Pokeworks,2,"['poke', 'salad', 'sushi']","[47.60725, -122.335247]",Downtown Commercial Core
+597,Hood Famous Café + Bar,2,"['cafes', 'desserts', 'filipino']","[47.5982, -122.3274659]",Pioneer Square/International District
+598,Oliver's Twist,2,"['newamerican', 'cocktailbars', 'tapasmallplates']","[47.67941535736, -122.35517042395]",Greenwood/Phinney Ridge
+600,Chuck's Hole In the Wall Bbq,1,"['bbq', 'sandwiches']","[47.60248, -122.33167]",Downtown Commercial Core
+601,FOB Poke Bar,2,"['poke', 'hawaiian']","[47.61592, -122.32041]",Capitol Hill
+603,Kate's Pub,1,"['pubs', 'tradamerican']","[47.6611, -122.32461]",Wallingford
+604,The Monkey Bridge,2,"['vietnamese', 'sandwiches']","[47.6685303252286, -122.379916906357]",Ballard
+605,Pokeworks,2,"['poke', 'salad', 'sushi']","[47.60725, -122.335247]",Downtown Commercial Core
+606,The Pine Box,2,"['pubs', 'newamerican', 'pizza']","[47.61549, -122.32767]",Capitol Hill
+607,Nate's Wings and Waffles,2,"['chicken_wings', 'waffles', 'sandwiches']","[47.6063234, -122.3156688]",First Hill
+608,Tenth West,2,"['breakfast_brunch', 'sandwiches']","[47.6361083984375, -122.370742797852]",Queen Anne
+609,Hood Famous Bakeshop,2,"['desserts', 'bakeries', 'catering']","[47.6683900521716, -122.387250400061]",Ballard
+610,Osteria la Spiga,2,['italian'],"[47.61381, -122.3171]",Capitol Hill
+611,Eureka!,2,"['newamerican', 'burgers', 'bars']","[47.661897097194, -122.299133504299]",Ravenna/Bryant
+612,Vito's,2,"['lounges', 'italian']","[47.608254, -122.327379]",First Hill
+613,Single Shot,2,"['bars', 'newamerican']","[47.624687, -122.325476]",Capitol Hill
+614,Le Rêve Bakery & Café,2,"['bakeries', 'cafes', 'cakeshop']","[47.634975, -122.357363]",Queen Anne
+615,Chi Mac,2,"['korean', 'chicken_wings']","[47.66208, -122.31344]",University District
+616,Pintxo,2,"['tapas', 'spanish', 'cocktailbars']","[47.61484, -122.34362]",Cascade/Eastlake
+617,The Dish Cafe - Ballard,2,"['tradamerican', 'breakfast_brunch']","[47.66027, -122.36568]",Fremont
+618,R & M Dessert Bar,2,"['desserts', 'bars']","[47.613953, -122.324138]",Capitol Hill
+619,Steepologie,2,"['coffee', 'giftshops', 'tea']","[47.6123484261216, -122.339297061377]",Cascade/Eastlake
+620,Damn the Weather,2,"['cocktailbars', 'newamerican']","[47.6011167, -122.3340814]",Pioneer Square/International District
+621,Rancho Bravo Tacos,1,"['mexican', 'foodtrucks']","[47.66119, -122.32651]",Wallingford
+622,La Vita E Bella,2,"['italian', 'pizza', 'wine_bars']","[47.6149, -122.3475]",Belltown
+623,Burgundian Bistro,2,"['newamerican', 'breakfast_brunch', 'cocktailbars']","[47.66891, -122.33142]",Green Lake
+625,Lan Huê Sandwich & Bakery,1,"['vietnamese', 'sandwiches', 'vegan']","[47.5995, -122.32033]",Pioneer Square/International District
+626,Samurai Noodle,1,"['ramen', 'noodles']","[47.59726, -122.3275]",Pioneer Square/International District
+627,Ikina Sushi,2,"['sushi', 'japanese']","[47.614133441945, -122.319855876267]",Capitol Hill
+628,Piroshki On Madison,1,"['bakeries', 'russian', 'ukrainian']","[47.609987326443, -122.323609255678]",Capitol Hill
+629,Korean Tofu House,1,['korean'],"[47.658422, -122.31397]",University District
+630,Pho Aroma,2,"['vietnamese', 'sandwiches', 'noodles']","[47.55172, -122.36327]",High Point
+631,Pho Big Bowl,1,['vietnamese'],"[47.668837642245, -122.38705422959]",Ballard
+632,Shawn O'Donnell's American Grill & Irish Pub,2,"['fishnchips', 'tradamerican', 'irish_pubs']","[47.6019782, -122.3318733]",Downtown Commercial Core
+633,Other Coast Cafe - Ballard,2,['sandwiches'],"[47.666645, -122.383794]",Ballard
+634,Ruth's Chris Steak House,3,"['steak', 'seafood', 'wine_bars']","[47.61282, -122.33317]",First Hill
+635,Szechuan Noodle Bowl,1,"['szechuan', 'noodles']","[47.59857, -122.32222]",Pioneer Square/International District
+637,Cafetal Quilombo,1,"['cafes', 'coffee', 'mexican']","[47.564051427786, -122.313940111554]",North Beacon Hill/Jefferson Park
+638,Ray's Café,2,['seafood'],"[47.67307, -122.40716]",Sunset Hill/Loyal Heights
+639,White Horse Tavern,2,"['bookstores', 'bars']","[47.6101424, -122.3420371]",Belltown
+640,Urban Luxe Cafe,2,"['coffee', 'mediterranean', 'cocktailbars']","[47.67294, -122.31774]",Green Lake
+641,Hana Restaurant,2,"['japanese', 'sushi', 'noodles']","[47.6206418809122, -122.321136]",Capitol Hill
+642,Safari Njema Restaurant,2,"['african', 'mediterranean']","[47.55598, -122.28409]",Columbia City
+643,Kimchi House,2,['korean'],"[47.6713381, -122.3878017]",Sunset Hill/Loyal Heights
+644,Cafe Barjot,2,"['cafes', 'newamerican', 'cocktailbars']","[47.6256957788825, -122.326807157255]",Cascade/Eastlake
+645,Shiku Sushi,2,"['sushi', 'lounges', 'japanese']","[47.66683, -122.38326]",Ballard
+646,HardWok Cafe,1,"['taiwanese', 'chinese', 'desserts']","[47.5990517655849, -122.316713458336]",Judkins Park
+647,La Rustica,3,['italian'],"[47.5674, -122.40933]",Alki/Admiral
+648,Central Cinema,2,"['movietheaters', 'venues', 'pizza']","[47.6131729781628, -122.304992079735]",Central Area/Squire Park
+649,The Hideout,2,"['lounges', 'karaoke']","[47.60946, -122.32548]",First Hill
+650,WOW Bubble Tea,1,"['coffee', 'icecream', 'bubbletea']","[47.6628435, -122.3132573]",University District
+651,Cubes Baking,1,"['bakeries', 'customcakes', 'desserts']","[47.66125, -122.33057]",Wallingford
+652,Billy Beach Sushi & Bar,2,"['sushi', 'japanese', 'seafood']","[47.66817, -122.38435]",Ballard
+653,Agua Verde Cafe,2,"['mexican', 'venues', 'cafes']","[47.65161, -122.31441]",University District
+654,I Love Sushi On Lake Union,2,"['sushi', 'japanese']","[47.6287704, -122.3317388]",Cascade/Eastlake
+656,Pam's Kitchen,2,"['trinidadian', 'cocktailbars']","[47.6612766002491, -122.336774915457]",Wallingford
+657,Flying Apron,1,"['bakeries', 'vegan', 'desserts']","[47.6509412, -122.3497053]",Fremont
+658,CÔBA,2,"['vietnamese', 'bars', 'seafood']","[47.62411, -122.35523]",Queen Anne
+660,Seattle Pops,1,"['desserts', 'icecream']","[47.66115, -122.34034]",Wallingford
+661,Djan's Thai Restaurant,2,['thai'],"[47.66154, -122.32541]",Wallingford
+662,Sea Wolf Bakers,2,['bakeries'],"[47.651064, -122.343262]",Fremont
+663,G.H. Pasta Co.,2,"['italian', 'pastashops']","[47.61674, -122.34273]",Cascade/Eastlake
+664,Rainier Restaurant,2,"['bbq', 'vietnamese', 'chinese']","[47.5452983, -122.2850226]",Columbia City
+665,Boiling Point,2,"['taiwanese', 'hotpot', 'comfortfood']","[47.5967306124494, -122.327492896295]",Pioneer Square/International District
+667,Adana,3,"['japanese', 'comfortfood', 'cocktailbars']","[47.61517, -122.31316]",Capitol Hill
+668,Heyday,2,"['burgers', 'cocktailbars', 'breakfast_brunch']","[47.59054, -122.29219]",Mt. Baker/North Rainier
+669,Cupcake Royale and Verite Coffee,1,"['bakeries', 'desserts', 'icecream']","[47.6689099, -122.3843]",Ballard
+670,Pecado Bueno,2,['mexican'],"[47.6592445373535, -122.350311279297]",Fremont
+671,San Fernando Roasted Chicken,2,"['peruvian', 'bbq', 'chickenshop']","[47.59401, -122.30967]",North Beacon Hill/Jefferson Park
+672,C & P Coffee Company,1,['coffee'],"[47.55168, -122.38667]",Fauntleroy/Seaview
+673,Opus Co,3,['newamerican'],"[47.68286, -122.35507]",Greenwood/Phinney Ridge
+674,Georgetown Liquor Company,2,"['vegetarian', 'pubs', 'breakfast_brunch']","[47.55322, -122.32126]",Georgetown
+675,Tavolàta,2,['italian'],"[47.61374, -122.32518]",Capitol Hill
+676,Los Agaves,1,['mexican'],"[47.609118, -122.340829]",Downtown Commercial Core
+677,Shawarma King,1,"['mediterranean', 'egyptian', 'halal']","[47.66093, -122.31359]",University District
+678,Moore Coffee Shop,1,"['coffee', 'breakfast_brunch', 'sandwiches']","[47.6105306, -122.3412861]",Belltown
+679,Moonlight Cafe,1,"['vegetarian', 'vietnamese', 'noodles']","[47.59901, -122.30672]",Judkins Park
+680,Smarty Pants,2,"['tradamerican', 'bars']","[47.54881, -122.31664]",Georgetown
+681,My Sweet Lil Cakes,1,"['desserts', 'foodtrucks', 'catering']","[47.61125, -122.33493]",First Hill
+682,No Anchor,2,"['beerbar', 'newamerican']","[47.615296, -122.348435]",Belltown
+683,Larsen's Danish Bakery,1,['bakeries'],"[47.6869175745084, -122.387420610184]",Sunset Hill/Loyal Heights
+684,The Matador,2,"['mexican', 'cocktailbars']","[47.668524396141, -122.38590340838]",Ballard
+685,Hot Dog Stand In Front of Neighbors,1,"['foodstands', 'hotdog', 'streetvendors']","[47.6142049, -122.3214673]",Capitol Hill
+686,Dough Zone Dumpling House,2,"['shanghainese', 'dimsum', 'noodles']","[47.61317, -122.33215]",First Hill
+687,El Quetzal,2,['mexican'],"[47.57474, -122.30934]",North Beacon Hill/Jefferson Park
+688,Mantra,2,"['thai', 'seafood', 'salad']","[47.6184417733982, -122.348531557074]",Cascade/Eastlake
+689,World Pizza,1,['pizza'],"[47.59849, -122.32424]",Pioneer Square/International District
+690,Betty,2,"['newamerican', 'gourmet', 'cocktailbars']","[47.63267, -122.35727]",Queen Anne
+691,Crepe De France,2,['creperies'],"[47.6086751, -122.3402434]",Downtown Commercial Core
+692,Elliott Bay Public House & Brewery,2,"['tradamerican', 'brewpubs', 'tapasmallplates']","[47.7203166551915, -122.295087334359]",Cedar Park/Meadowbrook
+694,Cloud City Coffee,1,"['coffee', 'cafes']","[47.6923141479492, -122.317939758301]",Northgate/Maple Leaf
+695,The Dray,2,"['coffee', 'beerbar']","[47.676127015582, -122.36492002012]",Greenwood/Phinney Ridge
+697,Ballard Pizza Company,2,"['pizza', 'italian', 'beerbar']","[47.66457, -122.38123]",Ballard
+698,Pike's Pit Bar-B-Que,2,['bbq'],"[47.608664, -122.340955]",Downtown Commercial Core
+699,Ben Paris,2,"['newamerican', 'cocktailbars', 'breakfast_brunch']","[47.60933, -122.33918]",Downtown Commercial Core
+700,Bamboo Garden Vegetarian Cuisine,2,"['chinese', 'vegetarian', 'kosher']","[47.62559, -122.34941]",Queen Anne
+701,Big Mario's New York Style Pizza,1,['pizza'],"[47.6139961704644, -122.318918729223]",Capitol Hill
+702,Shiki Japanese Restaurant,2,"['japanese', 'sushi']","[47.6258399, -122.35714]",Queen Anne
+703,Portage Bay Cafe - Ballard,2,"['newamerican', 'breakfast_brunch', 'cafes']","[47.668222, -122.394621]",Sunset Hill/Loyal Heights
+704,Humble Pie,2,['pizza'],"[47.5976491915013, -122.313305988361]",Judkins Park
+705,Tup Tim Thai,2,['thai'],"[47.6248, -122.35901]",Queen Anne
+706,Cafe Argento,1,"['coffee', 'sandwiches']","[47.6161727905273, -122.317276000977]",Capitol Hill
+707,Salare,3,"['tradamerican', 'caribbean', 'african']","[47.67595, -122.30122]",Ravenna/Bryant
+708,Jack's Fish Spot,2,"['seafoodmarkets', 'seafood', 'fishnchips']","[47.6091, -122.34085]",Downtown Commercial Core
+709,JaK's Grill,3,"['steak', 'tradamerican']","[47.66101, -122.28799]",Laurelhurst/Sand Point
+710,Cantinetta,3,['tuscan'],"[47.65186, -122.33614]",Fremont
+711,Eastern Cafe,1,"['coffee', 'sandwiches', 'breakfast_brunch']","[47.59795, -122.32485]",Pioneer Square/International District
+712,Garage,2,"['poolhalls', 'bowling', 'bars']","[47.61219, -122.32042]",Capitol Hill
+713,Manao Thai Street Eats,2,['thai'],"[47.61548, -122.31594]",Capitol Hill
+714,Sprout,2,"['salad', 'gluten_free', 'wraps']","[47.6020821770476, -122.332066488718]",Downtown Commercial Core
+715,Sushi Kanpai,2,"['sushi', 'japanese']","[47.6073901355267, -122.327862605453]",First Hill
+716,Seattle Fish Company,2,"['seafoodmarkets', 'seafood', 'fishnchips']","[47.563664506441, -122.386928200722]",West Seattle Junction/Genesee Hill
+717,Andaluca,3,"['mediterranean', 'breakfast_brunch']","[47.612257, -122.3381346]",Downtown Commercial Core
+718,Fuji Sushi,2,"['sushi', 'japanese']","[47.6002044677734, -122.326736450195]",Pioneer Square/International District
+719,Highline Bar,2,"['vegan', 'divebars']","[47.6203, -122.32067]",Capitol Hill
+720,Red Bowls,1,"['japanese', 'korean']","[47.60469, -122.33282]",Downtown Commercial Core
+721,Linda's Tavern,2,"['bars', 'tradamerican', 'chicken_wings']","[47.6152355, -122.3229372]",Capitol Hill
+722,Guanaco's Tacos Pupuseria,2,"['mexican', 'salvadoran']","[47.65714, -122.31404]",University District
+723,The Whale Wins,3,"['newamerican', 'tapasmallplates', 'french']","[47.64962, -122.3424]",Fremont
+724,ETG Coffee and Bakery,1,"['coffee', 'bakeries']","[47.6508899, -122.35026]",Fremont
+725,Roxy's Diner,2,"['diners', 'breakfast_brunch', 'newamerican']","[47.65219, -122.35267]",Fremont
+726,NEKO: A Cat Cafe,2,['themedcafes'],"[47.6151, -122.32483]",Capitol Hill
+727,Pomerol,3,['french'],"[47.6525168214713, -122.356492839754]",Fremont
+728,Victrola Coffee & Art,1,['coffeeroasteries'],"[47.6224997681791, -122.312783920868]",Capitol Hill
+729,West 5,2,"['tradamerican', 'lounges']","[47.5618, -122.38697]",West Seattle Junction/Genesee Hill
+730,Caffè Umbria,1,"['coffee', 'cafes']","[47.5994071, -122.332891]",Pioneer Square/International District
+731,Spice Waala,1,"['indpak', 'streetvendors']","[47.62165, -122.31239]",Miller Park
+732,The Cheesecake Factory,2,"['desserts', 'tradamerican']","[47.6118332068167, -122.333091436816]",First Hill
+733,Sebi's Bistro,2,"['pizza', 'sandwiches', 'polish']","[47.65122, -122.321236]",Montlake/Portage Bay
+734,Wedgwood II Vegetarian Thai,2,"['thai', 'vegetarian', 'vegan']","[47.62265, -122.32056]",Capitol Hill
+735,Latona Pub,2,"['pubs', 'sandwiches']","[47.67572, -122.32568]",Green Lake
+736,Pacific Cafe Hong Kong Kitchen,1,"['cantonese', 'hkcafe']","[47.59865, -122.32749]",Pioneer Square/International District
+737,TNT Taqueria,1,['mexican'],"[47.6615085566491, -122.332939538228]",Wallingford
+738,Eltana,1,"['bagels', 'coffee', 'mediterranean']","[47.61503, -122.31659]",Capitol Hill
+739,Über Tavern,2,['beerbar'],"[47.683829, -122.344843]",Greenwood/Phinney Ridge
+740,Pasta Freska,3,"['italian', 'tapasmallplates', 'wine_bars']","[47.63293, -122.34093]",Queen Anne
+741,Zoëyogurt,1,['icecream'],"[47.6788532800243, -122.325988001064]",Green Lake
+742,Meaty Johnson's BBQ,2,"['bbq', 'tradamerican']","[47.61486, -122.3285]",Capitol Hill
+743,Matcha Café Maiko - Seattle,1,"['icecream', 'coffee', 'shavedice']","[47.61188, -122.33729]",Downtown Commercial Core
+744,Duke's Seafood,2,"['seafood', 'bars']","[47.580856, -122.4059175]",Alki/Admiral
+745,Paju,2,['korean'],"[47.624406, -122.356151]",Queen Anne
+746,Rosita's Mexican Grill,2,['mexican'],"[47.68084, -122.32461]",Green Lake
+747,Brunello Ristorante,2,['italian'],"[47.68065, -122.31765]",Green Lake
+748,Full Tilt Ice Cream,1,['icecream'],"[47.66476, -122.314506]",University District
+749,The Bridge,2,"['sportsbars', 'newamerican', 'cocktailbars']","[47.546536, -122.387666]",Fauntleroy/Seaview
+750,Hudson,2,"['newamerican', 'bars', 'breakfast_brunch']","[47.55727, -122.33858]",Duwamish/SODO
+751,Country Dough,1,['chinese'],"[47.61018, -122.34274]",Belltown
+752,Red Cow,3,"['french', 'steak']","[47.6135963, -122.2892844]",Madrona/Leschi
+753,Tall Grass Bakery,1,['bakeries'],"[47.67179, -122.38783]",Sunset Hill/Loyal Heights
+754,Fado Irish Pub,2,"['irish_pubs', 'british', 'cocktailbars']","[47.6034099, -122.3354]",Downtown Commercial Core
+755,Dragonfish Asian Cafe,2,"['sushi', 'japanese', 'asianfusion']","[47.613129125506, -122.33341593431]",First Hill
+756,Veggie Grill,2,"['newamerican', 'vegan', 'vegetarian']","[47.6632151, -122.2986458]",Ravenna/Bryant
+757,Sod House Bakery,1,"['coffee', 'bakeries']","[47.67591, -122.3044]",Ravenna/Bryant
+758,Cafe Munir,2,['lebanese'],"[47.68696, -122.38789]",Sunset Hill/Loyal Heights
+759,Holy Cannoli,1,"['italian', 'sandwiches', 'salad']","[47.6176643371582, -122.349197387695]",Cascade/Eastlake
+760,Taste of the Caribbean,2,['caribbean'],"[47.6064447, -122.3159876]",First Hill
+761,El Mezcalito,2,"['mexican', 'bars']","[47.63777, -122.35717]",Queen Anne
+762,Mr. D's Greek Delicacies,1,"['greek', 'hotdogs', 'mediterranean']","[47.60922, -122.34122]",Downtown Commercial Core
+763,Nuna Ramen,2,"['ramen', 'poke', 'noodles']","[47.651496887207, -122.35230255127]",Fremont
+764,Capitol Coffee Works,2,"['coffeeroasteries', 'coffee']","[47.61395, -122.32031]",Capitol Hill
+765,The Gerald,2,"['newamerican', 'gastropubs', 'cocktailbars']","[47.66601, -122.38246]",Ballard
+766,Eve Fremont,2,['newamerican'],"[47.64972, -122.34895]",Fremont
+767,Cafe Opla,2,"['coffee', 'breakfast_brunch', 'cafes']","[47.6109703, -122.3476979]",Belltown
+768,Song Phang Kong,2,['thai'],"[47.599, -122.31881]",Pioneer Square/International District
+769,El Camion,1,"['mexican', 'foodtrucks']","[47.714904, -122.343886]",Haller Lake
+770,Sazon Kitchen,2,"['breakfast_brunch', 'mexican']","[47.68155, -122.37709]",Whittier Heights
+771,Tougo Coffee Co,1,['coffee'],"[47.6132599, -122.30869]",Central Area/Squire Park
+772,Moon Tree Sushi And Tapas,2,"['sushi', 'izakaya']","[47.62383, -122.35522]",Queen Anne
+773,JarrBar,2,"['cocktailbars', 'spanish', 'portuguese']","[47.60825, -122.34073]",Downtown Commercial Core
+774,El Chupacabra,2,"['mexican', 'bars']","[47.67814, -122.35568]",Greenwood/Phinney Ridge
+775,Belle Epicurean,2,"['bakeries', 'catering', 'cafes']","[47.605589, -122.333439]",Downtown Commercial Core
+776,Fremont Coffee,2,['coffee'],"[47.65167, -122.35305]",Fremont
+777,Spud Fish & Chips,2,"['seafood', 'fishnchips', 'hotdogs']","[47.57949, -122.40881]",Alki/Admiral
+778,Juicy Café,1,"['juicebars', 'salad', 'soup']","[47.6110789669424, -122.331657931209]",First Hill
+779,Kamonegi,2,"['japanese', 'noodles']","[47.6540752, -122.3442198]",Fremont
+780,Marrakesh Moroccan Restaurant,2,"['moroccan', 'mediterranean']","[47.6148, -122.3466]",Belltown
+781,Indi Chocolate,2,"['chocolate', 'coffee']","[47.6099183, -122.3434267]",Downtown Commercial Core
+782,Frankie and Jo's - Ballard,2,['icecream'],"[47.6794762790949, -122.375515697634]",Whittier Heights
+783,MOD Pizza,2,"['pizza', 'hotdogs']","[47.65847, -122.3124]",University District
+784,Taqueria Cantina,2,"['mexican', 'cocktailbars']","[47.615886, -122.350166]",Belltown
+785,Market Fresh RS,1,"['buffets', 'salad', 'breakfast_brunch']","[47.6090633903158, -122.33365139787]",First Hill
+786,Poke To The Max- Seattle,2,"['hawaiian', 'foodtrucks', 'poke']","[47.55401, -122.28032]",Columbia City
+787,Saigon Deli,1,"['vietnamese', 'delis']","[47.6581344604492, -122.314018249512]",University District
+788,The NOOK,2,"['lounges', 'cocktailbars']","[47.58369, -122.3862]",Alki/Admiral
+789,Maruta Shoten,1,"['delis', 'intlgrocery']","[47.5478706359863, -122.318885803223]",Georgetown
+790,Cupcake Royale,2,"['bakeries', 'icecream', 'cupcakes']","[47.610137, -122.340765]",Downtown Commercial Core
+791,Little Sheep Mongolian Hot Pot,2,"['mongolian', 'hotpot', 'chinese']","[47.5973282, -122.3259735]",Pioneer Square/International District
+793,Flying Squirrel Pizza Co,2,['pizza'],"[47.56429, -122.27102]",Columbia City
+794,Sisters And Brothers,2,"['bars', 'sandwiches', 'chickenshop']","[47.5459213256836, -122.31755065918]",Georgetown
+795,Rom Mai Thai,2,['thai'],"[47.6244253, -122.3209299]",North Capitol Hill
+796,Kastoori Grill,2,"['indpak', 'himalayan']","[47.6101817935531, -122.341718935226]",Belltown
+797,Tempesta,2,"['coffee', 'donuts', 'sandwiches']","[47.61316, -122.34263]",Belltown
+798,Fuji Bakery,1,"['bakeries', 'sandwiches', 'cakeshop']","[47.6282701, -122.3703613]",Interbay
+799,Petit Pierre Bakery,1,"['cafes', 'bakeries']","[47.63975, -122.39855]",Magnolia
+800,Five Hooks Fish Grill,2,"['seafood', 'fishnchips']","[47.639418, -122.356603]",Queen Anne
+801,Thaiku,2,['thai'],"[47.6780594, -122.3553749]",Greenwood/Phinney Ridge
+802,Herkimer Coffee,1,['coffee'],"[47.6698722839355, -122.31339263916]",University District
+803,Seven Stars Pepper Szechuan Restaurant,2,"['szechuan', 'hotpot', 'noodles']","[47.599074, -122.31691]",Judkins Park
+804,Red Star Taco Bar,2,"['mexican', 'cocktailbars']","[47.6514130785983, -122.351609878242]",Fremont
+805,Mighty-O Donuts,1,"['donuts', 'coffee', 'vegan']","[47.6131826694607, -122.316481460748]",Capitol Hill
+806,Hattie's Hat Restaurant,2,"['tradamerican', 'lounges', 'breakfast_brunch']","[47.66606, -122.38322]",Ballard
+807,LOCAL Terry Ave,2,"['bars', 'newamerican']","[47.6222538, -122.3368959]",Cascade/Eastlake
+808,Hellbent Brewing Company,1,"['sportsbars', 'beerbar', 'cideries']","[47.7233915821099, -122.293413989246]",Cedar Park/Meadowbrook
+809,Tapas Lab,2,"['tapasmallplates', 'spanish', 'asianfusion']","[47.67934, -122.32439]",Green Lake
+810,The Matador,2,"['mexican', 'cocktailbars']","[47.561475, -122.386385]",West Seattle Junction/Genesee Hill
+811,Chef Liao Asian Fusion Cuisine,2,"['asianfusion', 'chinese']","[47.67299, -122.35418]",Greenwood/Phinney Ridge
+812,Potbelly Sandwich Shop,1,"['sandwiches', 'hotdogs', 'salad']","[47.6099156864369, -122.336679181717]",Downtown Commercial Core
+813,Issian,2,"['sushi', 'tapasmallplates', 'izakaya']","[47.6614941311312, -122.338273105585]",Wallingford
+814,Burger and Kabob Hut,1,"['burgers', 'halal']","[47.65815, -122.31301]",University District
+815,BRGR Bar Seattle,2,"['tradamerican', 'burgers', 'sportsbars']","[47.6013499, -122.33327]",Pioneer Square/International District
+816,Kells Irish Restaurant & Pub,2,"['irish', 'irish_pubs']","[47.61029, -122.34213]",Belltown
+817,Fort St. George,2,"['asianfusion', 'ramen', 'noodles']","[47.59819, -122.32598]",Pioneer Square/International District
+818,2120,2,"['newamerican', 'cocktailbars', 'wine_bars']","[47.6157481377074, -122.340220477087]",Cascade/Eastlake
+819,Razzís Pizzería,2,"['pizza', 'gluten_free', 'vegan']","[47.69132, -122.35564]",Greenwood/Phinney Ridge
+820,Magic Dragon,1,"['chinese', 'hotdogs']","[47.63546, -122.37703]",Interbay
+821,Pinto Thai Bistro & Sushi Bar,2,"['thai', 'sushi', 'japanese']","[47.6223, -122.32065]",Capitol Hill
+822,Lighthouse Roasters,1,"['coffee', 'coffeeroasteries']","[47.6591110229492, -122.354164123535]",Fremont
+823,Canton Wonton House,1,"['cantonese', 'noodles']","[47.59766, -122.32591]",Pioneer Square/International District
+824,Despi Delite Bakery,1,"['bakeries', 'cakeshop', 'donuts']","[47.57922, -122.3137]",North Beacon Hill/Jefferson Park
+825,Katy's Corner Cafe,1,"['coffee', 'breakfast_brunch', 'sandwiches']","[47.6130549, -122.3061934]",Central Area/Squire Park
+826,The Blue Glass,2,"['newamerican', 'cocktailbars', 'breakfast_brunch']","[47.676108955734, -122.36483150714]",Greenwood/Phinney Ridge
+827,Analog Coffee,1,['cafes'],"[47.6207477301159, -122.32538039633]",Capitol Hill
+828,Chocolati Café,1,"['coffee', 'chocolate']","[47.68973, -122.35551]",Greenwood/Phinney Ridge
+829,Bengal Tiger Cuisine of India,2,"['indpak', 'bangladeshi']","[47.6761474609375, -122.317649841309]",Green Lake
+831,Golden Wheat Bakery,1,"['bakeries', 'breakfast_brunch']","[47.608213, -122.294437]",Central Area/Squire Park
+832,Seattle Beer Co,1,"['beerbar', 'pubs']","[47.6081777809983, -122.341204419169]",Downtown Commercial Core
+833,Loxicha Authentic Oaxaca Cuisine,1,"['foodtrucks', 'mexican']","[47.71373, -122.31209]",Olympic Hills/Victory Heights
+834,The Sitting Room,2,"['lounges', 'wine_bars', 'tapas']","[47.6259, -122.35855]",Queen Anne
+835,Wann Yen,1,"['desserts', 'thai', 'comfortfood']","[47.65969, -122.31346]",University District
+836,Laredos Grill,2,"['tex-mex', 'bars']","[47.6270499, -122.34587]",Queen Anne
+837,Ballard Coffee Works,2,['coffee'],"[47.66892, -122.38444]",Ballard
+838,Mioposto,2,"['italian', 'pizza', 'breakfast_brunch']","[47.57802, -122.28808]",Mt. Baker/North Rainier
+839,Tippe and Drague Alehouse,2,"['tradamerican', 'pubs']","[47.5736, -122.309]",North Beacon Hill/Jefferson Park
+840,Din Tai Fung,2,"['taiwanese', 'dimsum', 'shanghainese']","[47.61697, -122.20123]",Not Found
+841,Kwanjai Thai Cuisine,1,['thai'],"[47.6515731811523, -122.352645874023]",Fremont
+842,The Octopus Bar,2,"['cocktailbars', 'beerbar']","[47.66118, -122.33279]",Wallingford
+844,Dim Sum King,1,"['dimsum', 'cantonese']","[47.59895, -122.3256]",Pioneer Square/International District
+845,Loving Hut,2,"['burgers', 'sandwiches', 'noodles']","[47.5993799, -122.31609]",Judkins Park
+846,Menya Musashi Tsukemen & Ramen,2,"['ramen', 'noodles']","[47.61443, -122.32423]",Capitol Hill
+847,Cycle Dogs,1,"['hotdog', 'vegan', 'streetvendors']","[47.6639, -122.37703]",Ballard
+848,Redhook Brewlab,2,"['breweries', 'gastropubs', 'newamerican']","[47.6144, -122.32271]",Capitol Hill
+849,Frank's Oyster House & Champagne Parlor,2,"['newamerican', 'seafood', 'champagne_bars']","[47.66863, -122.29892]",Ravenna/Bryant
+850,Lake City Gyros,1,"['mideastern', 'mediterranean', 'greek']","[47.71851, -122.29542]",Olympic Hills/Victory Heights
+851,Patxi's Pizza,2,"['pizza', 'italian', 'salad']","[47.666858, -122.383919]",Ballard
+852,Flying Fish,2,['seafood'],"[47.6210858, -122.3381935]",Cascade/Eastlake
+853,Skillet Street Food,2,"['burgers', 'foodtrucks']","[47.54781, -122.32308]",Georgetown
+854,Chocolati Café,1,"['coffee', 'chocolate']","[47.66156, -122.33688]",Wallingford
+855,Corte Fino Mexican Cuisine,2,"['halal', 'mexican', 'breakfast_brunch']","[47.54189, -122.28398]",South Beacon Hill/NewHolly
+856,Honey Court Seafood Restaurant,2,"['seafood', 'dimsum', 'cantonese']","[47.5978, -122.32484]",Pioneer Square/International District
+857,Mondello Ristorante Italiano,2,"['italian', 'seafood', 'mediterranean']","[47.64025, -122.39999]",Magnolia
+859,Adey Abeba Ethiopian Restaurant,2,['ethiopian'],"[47.61271, -122.30391]",Central Area/Squire Park
+860,Atulea,1,"['bubbletea', 'coffee', 'cafes']","[47.61691, -122.31718]",Capitol Hill
+861,The Zouave Restaurant,2,"['italian', 'french']","[47.6756232, -122.29875]",Ravenna/Bryant
+862,Zoka Coffee Roaster & Tea Company,2,['coffee'],"[47.6688199, -122.33287]",Green Lake
+863,Rione XIII,2,"['pizza', 'italian']","[47.6220785, -122.3128054]",Capitol Hill
+864,Pink Bee,1,"['sandwiches', 'thai']","[47.6695949, -122.3829968]",Ballard
+865,Ti22,2,['thai'],"[47.617111, -122.3464964]",Cascade/Eastlake
+866,Fresh Flours,1,"['bakeries', 'cafes', 'coffee']","[47.62305, -122.34087]",Cascade/Eastlake
+867,Queen Anne Beerhall,2,"['beergardens', 'german', 'modern_european']","[47.62078, -122.35969]",Queen Anne
+868,Percy's & Co.,2,"['gastropubs', 'cocktailbars']","[47.6662415951791, -122.383002080592]",Ballard
+869,Giddy Up Burgers,2,"['burgers', 'newamerican']","[47.6624146, -122.3675379]",Ballard
+870,The Shambles,2,"['beerbar', 'newamerican']","[47.6865, -122.31236]",Ravenna/Bryant
+871,Little Thai Restaurant,2,['thai'],"[47.6581344604492, -122.314018249512]",University District
+872,Emma's BBQ,2,"['southern', 'bbq']","[47.55354, -122.28046]",Columbia City
+873,Regent Bakery & Cafe,2,"['bakeries', 'dimsum', 'hkcafe']","[47.615436, -122.314095]",Capitol Hill
+874,An Nam Pho,1,"['vietnamese', 'sandwiches', 'vegetarian']","[47.67628, -122.31704]",Ravenna/Bryant
+875,Ramen Man Noodle House,1,"['ramen', 'noodles']","[47.66161, -122.33839]",Wallingford
+877,Tacos Chukis,1,['tacos'],"[47.57965, -122.31145]",North Beacon Hill/Jefferson Park
+878,Sushi Maki,2,['sushi'],"[47.61609, -122.32715]",Capitol Hill
+879,Mulleady's Irish Pub,2,"['pubs', 'irish', 'breakfast_brunch']","[47.6482699, -122.38359]",Interbay
+880,A La Mode Pies West Seattle,1,"['desserts', 'cafes', 'bakeries']","[47.5609351, -122.385813]",West Seattle Junction/Genesee Hill
+881,Il Fornaio,2,"['italian', 'seafood', 'pizza']","[47.612992, -122.335801]",First Hill
+882,Full Tilt Ice Cream,1,"['arcades', 'icecream']","[47.6678481, -122.3837788]",Ballard
+883,Miller's Guild,3,"['newamerican', 'steak', 'cocktailbars']","[47.6140837370768, -122.336671736262]",Cascade/Eastlake
+884,Bibimbap,1,['korean'],"[47.6038649603474, -122.33570471406]",Downtown Commercial Core
+885,Lost Lake Cafe and Lounge,2,"['breakfast_brunch', 'newamerican', 'beerbar']","[47.6144879151085, -122.319626696176]",Capitol Hill
+886,The Westy,2,"['sportsbars', 'cocktailbars', 'newamerican']","[47.53156, -122.37618]",Roxhill/Westwood
+887,Alison's Coastal Cafe & Bakery,1,"['bakeries', 'breakfast_brunch']","[47.6672717622741, -122.382619903663]",Ballard
+888,SkyCafe Observation Deck at The Space Needle,2,"['cafes', 'observatories']","[47.6204267816671, -122.349210015759]",Queen Anne
+890,The Diller Room,2,"['pizza', 'cocktailbars']","[47.60677, -122.33791]",Downtown Commercial Core
+891,Frolik Kitchen + Cocktails,2,"['newamerican', 'breakfast_brunch', 'tradamerican']","[47.6099694, -122.3354995]",Downtown Commercial Core
+892,Vendemmia,3,"['newamerican', 'italian']","[47.6122937491713, -122.289220162563]",Madrona/Leschi
+893,El Camino,2,"['mexican', 'bars', 'desserts']","[47.65049, -122.35094]",Fremont
+894,Bambino's Pizzeria,2,"['pizza', 'italian', 'beerbar']","[47.6179, -122.34761]",Cascade/Eastlake
+895,Coyle's Bakeshop,1,"['cafes', 'bakeries']","[47.68925, -122.35494]",Greenwood/Phinney Ridge
+896,Luc,2,"['french', 'tradamerican']","[47.623691, -122.296312]",Central Area/Squire Park
+897,The Crocodile,2,"['musicvenues', 'bars']","[47.6135902404785, -122.344284057617]",Belltown
+898,Moshi Moshi Sushi & Izakaya,2,"['sushi', 'japanese']","[47.66704, -122.38359]",Ballard
+899,Kokkaku,3,"['newamerican', 'japanese', 'steak']","[47.66163, -122.33202]",Wallingford
+900,Eastlake Coffee & Cafe,1,['coffee'],"[47.63959, -122.32617]",Cascade/Eastlake
+901,The Stumbling Monk,2,['pubs'],"[47.61939, -122.32428]",Capitol Hill
+902,Un Bien,2,"['caribbean', 'cuban', 'sandwiches']","[47.674826, -122.406164]",Sunset Hill/Loyal Heights
+903,BOPBOX,2,"['asianfusion', 'korean']","[47.5513, -122.3191]",Georgetown
+904,Sunfish,2,"['seafood', 'fishnchips']","[47.5784187316895, -122.41219329834]",Alki/Admiral
+905,Chilolos Tacos,1,['tacos'],"[47.5440817, -122.3291524]",Georgetown
+907,Goldfinch Tavern,3,"['seafood', 'newamerican', 'cocktailbars']","[47.60762, -122.33922]",Downtown Commercial Core
+908,Cafe Solstice,1,['cafes'],"[47.657406, -122.3129055]",University District
+909,The White Swan Public House,2,"['seafood', 'cocktailbars', 'venues']","[47.6288185119629, -122.331748962402]",Cascade/Eastlake
+910,Taki's Mad Greek,2,"['greek', 'mediterranean']","[47.6904779, -122.3757656]",Whittier Heights
+911,Rocking Wok Taiwanese Cuisine,1,"['taiwanese', 'hotpot']","[47.65942, -122.34089]",Wallingford
+912,Watson's Counter,2,"['korean', 'coffee', 'breakfast_brunch']","[47.67399, -122.37649]",Whittier Heights
+913,Harry's Fine Foods,2,['newamerican'],"[47.6244506835938, -122.326805114746]",Capitol Hill
+914,La Creperie Voila,1,"['creperies', 'foodstands']","[47.611656, -122.332648]",First Hill
+915,Bad Jimmy's Brewing,1,"['bars', 'breweries', 'arcades']","[47.66032, -122.36559]",Fremont
+916,Ambakity Cocina Mexicana,2,['mexican'],"[47.52682, -122.31514]",South Park
+917,Buckley's In Belltown,2,"['tradamerican', 'salad', 'breakfast_brunch']","[47.6144905090332, -122.347023010254]",Belltown
+918,Yummy House Bakery,1,"['bakeries', 'cakeshop', 'customcakes']","[47.59775, -122.32601]",Pioneer Square/International District
+919,Golden Singha Thai Cuisine,2,['thai'],"[47.61817, -122.34727]",Cascade/Eastlake
+920,GoldinBlack,2,"['sandwiches', 'korean']","[47.625272, -122.356784]",Queen Anne
+921,Ian's Pizza on the Hill,1,"['pizza', 'newamerican', 'hotdogs']","[47.61592, -122.32041]",Capitol Hill
+922,Poco Wine + Spirits,2,"['bars', 'venues', 'tapasmallplates']","[47.61542, -122.31371]",Capitol Hill
+923,Anthony's Pier 66,3,['seafood'],"[47.6111081, -122.348535]",Belltown
+924,Central District Ice Cream Company,1,['icecream'],"[47.6064814, -122.3156987]",First Hill
+925,NYC Deli Market,1,"['delis', 'salad', 'breakfast_brunch']","[47.6123, -122.33358]",First Hill
+926,Café Paloma,2,"['mediterranean', 'turkish']","[47.60158, -122.3347]",Pioneer Square/International District
+927,Hong Kong Bistro,2,"['cantonese', 'dimsum', 'hkcafe']","[47.59801, -122.32543]",Pioneer Square/International District
+928,Curbside,1,"['foodtrucks', 'vietnamese']","[47.6497067, -122.3577959]",Queen Anne
+929,Montana,1,"['divebars', 'cocktailbars']","[47.6179347, -122.3262903]",Capitol Hill
+930,Bateau,4,"['steak', 'french', 'desserts']","[47.6130649, -122.3187292]",Capitol Hill
+931,The Backdoor,2,"['newamerican', 'speakeasies', 'cocktailbars']","[47.65219, -122.35267]",Fremont
+932,Pair,2,"['newamerican', 'french', 'wine_bars']","[47.6686789872273, -122.294944967567]",Ravenna/Bryant
+934,Suite 410,2,"['lounges', 'cocktailbars']","[47.6126, -122.33867]",Cascade/Eastlake
+935,Six Arms,2,"['pubs', 'breweries', 'tradamerican']","[47.6141127325286, -122.327810855295]",Capitol Hill
+936,Pho So 1,1,"['vietnamese', 'noodles']","[47.5989074707031, -122.316787719727]",Judkins Park
+937,SODO Deli,1,"['sandwiches', 'italian']","[47.5746899, -122.33398]",Duwamish/SODO
+938,Duke's Seafood,2,"['seafood', 'bars', 'burgers']","[47.6860118, -122.3380937]",Green Lake
+939,Slim's Last Chance,2,"['bars', 'tradamerican']","[47.55248, -122.3339]",Georgetown
+940,Caffe Vita Queen Anne,1,['coffee'],"[47.626804, -122.347723]",Queen Anne
+941,Bar Melusine,2,"['seafood', 'cocktailbars']","[47.6130716627757, -122.318355676295]",Capitol Hill
+942,Stellar Pizza & Ale,2,"['pizza', 'bars', 'italian']","[47.5529289, -122.3207779]",Georgetown
+943,Saint John's Bar & Eatery,2,"['newamerican', 'breakfast_brunch', 'bars']","[47.6139443763948, -122.322623043327]",Capitol Hill
+944,Taste of Xi'an,2,"['chinese', 'bbq', 'noodles']","[47.66196, -122.31345]",University District
+945,Cedars of Lebanon,1,"['mediterranean', 'lebanese']","[47.65968, -122.31338]",University District
+946,Collections Cafe,2,['cafes'],"[47.6209236821059, -122.350430541525]",Queen Anne
+947,Viengthong,2,"['thai', 'laotian']","[47.5778713, -122.2959774]",Mt. Baker/North Rainier
+948,Just Burgers,2,"['burgers', 'tradamerican']","[47.661621, -122.312979]",University District
+949,Good Bar,2,"['cocktailbars', 'newamerican', 'tradamerican']","[47.6002262966591, -122.331383719049]",Pioneer Square/International District
+950,Van Gogh Coffeehouse,1,"['coffee', 'cafes']","[47.68896, -122.29012]",Wedgwood/View Ridge
+951,Ironsteak,2,"['steak', 'desserts', 'chicken_wings']","[47.59766, -122.32527]",Pioneer Square/International District
+952,Marination,2,"['asianfusion', 'korean', 'seafood']","[47.6146582349208, -122.338383453643]",Cascade/Eastlake
+953,Off the Rez,1,"['foodtrucks', 'burgers']","[47.6599202, -122.3118251]",University District
+954,Phayathai Cuisine,2,"['thai', 'asianfusion']","[47.693588, -122.305966]",Northgate/Maple Leaf
+955,Sinbad Express,1,['mediterranean'],"[47.651267401768, -122.350738495588]",Fremont
+956,Mura Asian Eatery,2,"['japanese', 'korean', 'asianfusion']","[47.64026, -122.39916]",Magnolia
+957,Altstadt,2,"['german', 'pubs', 'sportsbars']","[47.600446, -122.334371]",Pioneer Square/International District
+958,Bamboo,1,"['vietnamese', 'noodles', 'asianfusion']","[47.62179, -122.31297]",Capitol Hill
+959,Vios Cafe,2,"['greek', 'mediterranean', 'coffee']","[47.627063848557, -122.307532880951]",Miller Park
+960,Queen Mary Tea Room,2,"['desserts', 'tea']","[47.66867, -122.29558]",Ravenna/Bryant
+961,Marco Polo Bar & Grill,2,"['divebars', 'karaoke', 'tradamerican']","[47.55209, -122.32984]",Georgetown
+962,San Fermo,2,"['italian', 'cocktailbars', 'sandwiches']","[47.66722, -122.3845]",Ballard
+963,Silver Tray,2,['thai'],"[47.6612623627744, -122.333582928366]",Wallingford
+964,Chaiyo Thai Cuisine,2,['thai'],"[47.715479, -122.3127478]",Haller Lake
+965,Jae's Asian Bistro & Sushi,2,"['sushi', 'japanese', 'asianfusion']","[47.62343, -122.2959]",Central Area/Squire Park
+966,Ten Sushi,2,"['sushi', 'conveyorsushi']","[47.6247303, -122.3472236]",Cascade/Eastlake
+967,Mekong Village,2,"['vietnamese', 'noodles', 'sandwiches']","[47.7166898, -122.3443861]",Haller Lake
+968,Uptown Espresso,1,"['coffee', 'bakeries']","[47.6169628, -122.346392]",Cascade/Eastlake
+969,Now Make Me A Sandwich,1,"['foodtrucks', 'sandwiches']","[47.5845757, -122.303649]",North Beacon Hill/Jefferson Park
+970,Cafe Ibex,2,['ethiopian'],"[47.574278289178, -122.29732096801]",North Beacon Hill/Jefferson Park
+971,MOD Pizza,1,"['pizza', 'hotdogs']","[47.621496, -122.350727]",Queen Anne
+972,Roti Cuisine Of India,2,['indpak'],"[47.62429, -122.35654]",Queen Anne
+973,Buddha Bruddah,2,"['asianfusion', 'thai', 'hawaiian']","[47.58329, -122.30249]",North Beacon Hill/Jefferson Park
+975,wa’z,4,['japanese'],"[47.61795, -122.34741]",Cascade/Eastlake
+976,Mousse Boutique,2,"['bakeries', 'customcakes', 'cakeshop']","[47.5830383300781, -122.310844421387]",North Beacon Hill/Jefferson Park
+977,Snappy Dragon,2,"['chinese', 'asianfusion']","[47.693703, -122.317879]",Northgate/Maple Leaf
+978,Fresh Flours,1,"['coffee', 'bakeries', 'cafes']","[47.6729202270508, -122.35474395752]",Greenwood/Phinney Ridge
+979,The Tin Table,2,"['newamerican', 'lounges', 'gastropubs']","[47.6149994, -122.3197969]",Capitol Hill
+980,Ma'ono Fried Chicken,2,"['sandwiches', 'chickenshop']","[47.66251, -122.29969]",Ravenna/Bryant
+981,Macrina Bakery & Cafe,2,"['bakeries', 'cafes', 'cakeshop']","[47.63941, -122.36589]",Queen Anne
+982,Al Basha,2,['mediterranean'],"[47.61364, -122.3466]",Belltown
+983,Olympia Pizza and Spaghetti House III,2,"['pizza', 'italian']","[47.62383, -122.312445]",Miller Park
+984,Where Ya At Matt,1,"['cajun', 'soulfood', 'foodtrucks']","[47.6032409667969, -122.328681945801]",First Hill
+985,Rookies Sports Bar and Grill,2,"['tradamerican', 'sportsbars', 'breakfast_brunch']","[47.5579286964199, -122.284219712019]",Columbia City
+986,Owl'n Thistle Irish Pub,2,"['irish', 'irish_pubs']","[47.6032105833292, -122.335636988282]",Downtown Commercial Core
+987,Pacific Inn Pub,1,"['divebars', 'tradamerican', 'fishnchips']","[47.64965, -122.34309]",Fremont
+988,Connect Lounge,2,"['lounges', 'cocktailbars']","[47.6149, -122.3465]",Belltown
+989,Mel's Market,1,"['sandwiches', 'salad', 'breakfast_brunch']","[47.6058872126119, -122.334141146033]",Downtown Commercial Core
+990,Musashi's,2,"['japanese', 'sushi', 'soup']","[47.59846, -122.32712]",Pioneer Square/International District
+991,Nutty Squirrel Gelato - Seattle,1,"['gelato', 'desserts', 'icecream']","[47.68152, -122.35504]",Greenwood/Phinney Ridge
+992,Poke Fresh,2,"['poke', 'desserts', 'shavedice']","[47.6760052083313, -122.316482056836]",Ravenna/Bryant
+994,Enat Ethiopian Restaurant,1,['ethiopian'],"[47.713467, -122.3120443]",Olympic Hills/Victory Heights
+995,Bookstore Bar and Cafe,2,"['bars', 'newamerican', 'breakfast_brunch']","[47.605121, -122.33678]",Downtown Commercial Core
+996,Aluel Cellars,2,"['winetastingroom', 'wine_bars']","[47.62097744904, -122.321928218007]",Capitol Hill
+997,Mission Cantina,2,"['bars', 'mexican', 'venues']","[47.58225, -122.38689]",Alki/Admiral
+998,Shawn O'Donnell's American Grill & Irish Pub,2,"['irish', 'irish_pubs']","[47.65169, -122.35031]",Fremont
+999,The Twilight Exit,2,"['divebars', 'tradamerican']","[47.60818, -122.2994]",Central Area/Squire Park
